@@ -239,10 +239,23 @@ a:hover {
 .stat-card {
   background: linear-gradient(180deg, rgba(255, 252, 247, 0.95), rgba(238, 224, 205, 0.86));
   border: 1px solid var(--line);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
 }
 
 .stat-card-soft {
   background: linear-gradient(180deg, rgba(243, 235, 225, 0.9), rgba(232, 221, 206, 0.78));
+}
+
+.stat-card-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.stat-card-link:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 24px 54px rgba(46, 32, 22, 0.17);
+  border-color: var(--line-strong);
 }
 
 .stat-card span {
@@ -307,6 +320,10 @@ a:hover {
   margin-top: 0.95rem;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.source-link-row {
+  margin: 0.9rem 0 1rem;
 }
 
 .track-grid {
@@ -460,6 +477,26 @@ a:hover {
   padding: 0.95rem 1rem 1rem;
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.gallery-link {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--accent-deep);
+  text-decoration: none;
+  font-family: var(--serif);
+  font-size: 1rem;
+}
+
+.gallery-meta {
+  color: var(--muted);
+  font-size: 0.84rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.related-glaze-grid {
+  margin-top: 1rem;
 }
 
 .chip-row {
