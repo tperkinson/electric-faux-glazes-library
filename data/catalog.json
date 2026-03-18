@@ -1,0 +1,3227 @@
+{
+  "recipes": [
+    {
+      "recipe_id": "6:ashleighs-rivulet",
+      "slug": "ashleighs-rivulet",
+      "title": "Ashleighs Rivulet",
+      "cone": "6",
+      "atmosphere_targets": [
+        "wood-fired",
+        "ash-run",
+        "streaking"
+      ],
+      "surface_tags": [
+        "rivulet",
+        "iron",
+        "titanium",
+        "runny",
+        "layered"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-ashleighs-rivulet"
+      ],
+      "source_primary_id": "can-ashleighs-rivulet",
+      "image_paths": [
+        "data/images/recipes/ashleighs-rivulet.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/ashleighs-rivulet.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "An iron- and titanium-bearing rivulet glaze that creates downward ash-like streaking and movement when layered over a matte base.",
+      "process_application": "Use over Green Dragon Matte. The published piece also paired it with Frasca Ash.",
+      "process_notes": "Hall-Hough treated it as part of a layered runny surface stack and fired the work on shells and wadding over a drip tray.",
+      "fit_notes": "Runs in combination. Protect shelves and test thickness.",
+      "ingredients": [
+        {
+          "material": "Dolomite",
+          "percentage": 13.6,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Strontium Carbonate",
+          "percentage": 13.6,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 27.3,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Ferro Frit 3134",
+          "percentage": 9.1,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Ball Clay",
+          "percentage": 27.3,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 9.1,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Bentonite",
+          "percentage": 2.0,
+          "role": "suspension",
+          "notes": "Added material."
+        },
+        {
+          "material": "Red Iron Oxide",
+          "percentage": 10.0,
+          "role": "colorant",
+          "notes": "Added material."
+        },
+        {
+          "material": "Titanium Dioxide",
+          "percentage": 5.0,
+          "role": "opacifier and crystallization response",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-electric",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation/neutral.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Published as a cone 6 oxidation/neutral recipe."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis recipe reads less like a static glaze and more like a movement layer.\n\n- It is a strong option when the goal is gravity-driven streaking rather than broad pooled ash melts.\n- The iron and titanium combination should make cooling effects worth testing, even though the published source does not specify a programmed cool.\n- Pairing it with Frasca Ash over a matte base appears to be one of the richest electric faux wood-fire combinations in this cluster.",
+      "body_html": "<h1>Notes</h1>\n<p>This recipe reads less like a static glaze and more like a movement layer.</p>\n<ul><li>It is a strong option when the goal is gravity-driven streaking rather than broad pooled ash melts.</li><li>The iron and titanium combination should make cooling effects worth testing, even though the published source does not specify a programmed cool.</li><li>Pairing it with Frasca Ash over a matte base appears to be one of the richest electric faux wood-fire combinations in this cluster.</li></ul>"
+    },
+    {
+      "recipe_id": "6:bates-clear-soda-ash",
+      "slug": "bates-clear-soda-ash",
+      "title": "Bates Clear With Soda Ash Sprinkle",
+      "cone": "6",
+      "atmosphere_targets": [
+        "soda-fired",
+        "salt-fired"
+      ],
+      "surface_tags": [
+        "clear",
+        "runny",
+        "soda-ash",
+        "variegated",
+        "pooling"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-bates-clear"
+      ],
+      "source_primary_id": "can-bates-clear",
+      "image_paths": [
+        "data/images/recipes/bates-clear-soda-ash.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/bates-clear-soda-ash.jpg",
+          "caption": "Bates Clear example from the Ceramic Arts Network source.",
+          "source_url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Bates-Clear-253116",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A cone 6 oxidation clear base that becomes more salt- and soda-like when soda ash is sprinkled onto the wet glaze to force localized movement.",
+      "process_application": "Dip the piece in the base glaze, then sprinkle soda ash onto selected wet areas.",
+      "process_notes": "Antonio Martinez says the glaze is typically fired to cone 6 in oxidation. He uses the soda ash addition specifically to make selected areas run and create more surface variety. The source page also shows an 8% Mason Stain 6376 Robin's Egg addition.",
+      "fit_notes": "Contains barium carbonate. The soda ash treatment increases movement, so keep it away from foot rings and test over a catch tile.",
+      "ingredients": [
+        {
+          "material": "Barium Carbonate",
+          "percentage": 4.0,
+          "role": "surface modifier",
+          "notes": ""
+        },
+        {
+          "material": "Gerstley Borate",
+          "percentage": 19.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 8.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Minspar 200 Feldspar",
+          "percentage": 36.5,
+          "role": "feldspathic flux",
+          "notes": ""
+        },
+        {
+          "material": "EPK Kaolin",
+          "percentage": 10.5,
+          "role": "clay",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 22.0,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Mason Stain 6376 Robin's Egg",
+          "percentage": 8.0,
+          "role": "optional colorant",
+          "notes": "Shown as an addition on the source page rather than part of the 100% base."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-oxidation",
+          "kiln_type": "not specified",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Typically fired to cone 6 in oxidation.",
+          "hold_minutes": 0,
+          "cooling": "Not specified.",
+          "notes": "The author also reports reliable behavior at cone 10 in reduction, but the electric faux use case here is the cone 6 oxidation version."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis is a strong faux-salt candidate because the sodium is added at the surface rather than buried entirely in the glaze slurry.\n\n- The clear base gives the soda ash room to announce itself.\n- The treatment should work best where you want selective runs, halos, or more atmospheric edges.\n- It belongs in a test grid next to soda sprays and sodium-heavy shinos, not only next to ordinary clear glazes.",
+      "body_html": "<h1>Notes</h1>\n<p>This is a strong faux-salt candidate because the sodium is added at the surface rather than buried entirely in the glaze slurry.</p>\n<ul><li>The clear base gives the soda ash room to announce itself.</li><li>The treatment should work best where you want selective runs, halos, or more atmospheric edges.</li><li>It belongs in a test grid next to soda sprays and sodium-heavy shinos, not only next to ordinary clear glazes.</li></ul>"
+    },
+    {
+      "recipe_id": "6:colored-shigaraki",
+      "slug": "colored-shigaraki",
+      "title": "Colored Shigaraki",
+      "cone": "6",
+      "atmosphere_targets": [
+        "shigaraki",
+        "wood-fired inclusion",
+        "feldspar burst"
+      ],
+      "surface_tags": [
+        "body additive",
+        "shigaraki",
+        "chips",
+        "feldspar pop"
+      ],
+      "clay_bodies": [
+        "sculptural clay body with added chips"
+      ],
+      "source_ids": [
+        "can-colored-shigaraki"
+      ],
+      "source_primary_id": "can-colored-shigaraki",
+      "image_paths": [
+        "data/images/recipes/colored-shigaraki.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/colored-shigaraki.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A Shigaraki-style body additive made from sintered feldspar chips and stain, meant to be wedged into clay for eruptive, feldspathic bursts at cone 6.",
+      "process_application": "Sinter the feldspar mix, crush to chip size, sieve out dust, then wedge chips into clay at roughly 1:8 chips-to-clay by weight.",
+      "process_notes": "Add 37.5% water before sintering to cone 05 in a bisque-fired crucible dusted lightly with alumina hydrate. Elliott Kayser reports good results with several Mason stains, chrome oxide, and cobalt carbonate.",
+      "fit_notes": "Sieve out dust before wedging chips into clay or the body can look muddy and contaminated.",
+      "ingredients": [
+        {
+          "material": "Ferro Frit FB-284-M",
+          "percentage": 25.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Custer Feldspar",
+          "percentage": 75.0,
+          "role": "feldspathic burst source",
+          "notes": ""
+        },
+        {
+          "material": "Mason Stain",
+          "percentage": 6.0,
+          "role": "colorant",
+          "notes": "Added material. Source suggests a 4-6% range depending on colorant."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-final-fire",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Final work fired to cone 6 after chips are sintered separately to cone 05.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Source states the additive can also be used in reduction/neutral firings."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis is not a glaze in the narrow sense, but it matters for the project because wood-fired-looking work often depends on body events as much as surface coating.\n\n- The additive should be tracked alongside glazes because it changes how an electric-fired piece reads at first glance.\n- This is a strong bridge between faux atmospheric glazing and clay-body engineering.",
+      "body_html": "<h1>Notes</h1>\n<p>This is not a glaze in the narrow sense, but it matters for the project because wood-fired-looking work often depends on body events as much as surface coating.</p>\n<ul><li>The additive should be tracked alongside glazes because it changes how an electric-fired piece reads at first glance.</li><li>This is a strong bridge between faux atmospheric glazing and clay-body engineering.</li></ul>"
+    },
+    {
+      "recipe_id": "6:flashing-wood-ash",
+      "slug": "flashing-wood-ash",
+      "title": "Flashing Wood Ash",
+      "cone": "6",
+      "atmosphere_targets": [
+        "wood-fired",
+        "flashing",
+        "ash-run"
+      ],
+      "surface_tags": [
+        "directional",
+        "flashing",
+        "wood-ash",
+        "runny",
+        "electric faux atmospheric"
+      ],
+      "clay_bodies": [
+        "Standard 182G"
+      ],
+      "source_ids": [
+        "can-flashing-wood-ash",
+        "can-techno-electric-wood-ash"
+      ],
+      "source_primary_id": "can-flashing-wood-ash",
+      "image_paths": [
+        "data/images/recipes/flashing-wood-ash.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/flashing-wood-ash.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A directional electric wood-ash glaze system designed to mimic flashing, shell halos, and side-fired ash movement in cone 6 oxidation.",
+      "process_application": "Spray from one direction onto pots mounted on shells and wadding.",
+      "process_notes": "Use unwashed wood ash but sieve it to a manageable particle size. Ryan Coppage notes that shells and wadding help block and redirect the spray path and can create shell flashing. Wear gloves and avoid breathing ash dust.",
+      "fit_notes": "Ash chemistry varies by source. Test on your clay body and expect movement.",
+      "ingredients": [
+        {
+          "material": "Gerstley Borate Substitute",
+          "percentage": 5.21,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Soda Ash",
+          "percentage": 1.04,
+          "role": "flashing promoter",
+          "notes": "Very small addition used to encourage subtle halo flashing on bare clay."
+        },
+        {
+          "material": "Whiting",
+          "percentage": 9.38,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Wood Ash",
+          "percentage": 54.17,
+          "role": "ash source",
+          "notes": "Use unwashed ash."
+        },
+        {
+          "material": "Potassium Feldspar",
+          "percentage": 9.38,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Ball Clay",
+          "percentage": 10.41,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 10.41,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Red Iron Oxide",
+          "percentage": 4.0,
+          "role": "colorant",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-electric",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 electric oxidation; directional spray application on shell- and wadding-supported ware.",
+          "hold_minutes": 0,
+          "cooling": "Natural cooling.",
+          "notes": "The source also notes the recipe can be pushed higher, but the electric faux wood-fire method is framed around cone 6 oxidation."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis is one of the clearest electric-kiln paths toward a wood-fire-like surface because it does not only chase chemistry, it also imitates directional deposition.\n\n- Spray the glaze from one side rather than coating evenly.\n- Set pots on shells and wadding so the sprayed ash glaze is blocked and redirected.\n- Expect orange blush halos where the glaze line ends because the small soda ash addition can volatilize enough sodium to mark the bare clay.\n\nThe article source also emphasizes that you can tune melt with small silica and Gerstley borate adjustments as your ash source changes.",
+      "body_html": "<h1>Notes</h1>\n<p>This is one of the clearest electric-kiln paths toward a wood-fire-like surface because it does not only chase chemistry, it also imitates directional deposition.</p>\n<ul><li>Spray the glaze from one side rather than coating evenly.</li><li>Set pots on shells and wadding so the sprayed ash glaze is blocked and redirected.</li><li>Expect orange blush halos where the glaze line ends because the small soda ash addition can volatilize enough sodium to mark the bare clay.</li></ul>\n<p>The article source also emphasizes that you can tune melt with small silica and Gerstley borate adjustments as your ash source changes.</p>"
+    },
+    {
+      "recipe_id": "6:frasca-ash",
+      "slug": "frasca-ash",
+      "title": "Frasca Ash",
+      "cone": "6",
+      "atmosphere_targets": [
+        "wood-fired",
+        "ash-run",
+        "natural ash"
+      ],
+      "surface_tags": [
+        "wood ash",
+        "runny",
+        "overlay",
+        "color-variant"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-frasca-ash"
+      ],
+      "source_primary_id": "can-frasca-ash",
+      "image_paths": [
+        "data/images/recipes/frasca-ash.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/frasca-ash.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A cone 6 wood-ash glaze used by Hall-Hough over Green Dragon Matte, with copper and cobalt variants for green and blue wood-fire-like runs.",
+      "process_application": "Use over Green Dragon Matte for the published layered result.",
+      "process_notes": "For green, add 4% copper carbonate. For blue, add 2% cobalt carbonate. Hall-Hough side-fired the work on shells and wadding over a drip tray.",
+      "fit_notes": "This is a runny ash glaze. Use shells, wadding, or a drip tray.",
+      "ingredients": [
+        {
+          "material": "Dry-Sieved Wood Ash (unwashed)",
+          "percentage": 56.0,
+          "role": "ash source",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 11.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Potash Feldspar",
+          "percentage": 11.0,
+          "role": "flux",
+          "notes": "Suggested feldspar: Custer Feldspar."
+        },
+        {
+          "material": "Ball Clay",
+          "percentage": 11.0,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 11.0,
+          "role": "glass former",
+          "notes": ""
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-electric",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation/neutral.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Published as a cone 6 oxidation/neutral recipe. Suggested feldspar is Custer Feldspar."
+        }
+      ],
+      "body_markdown": "# Notes\n\nFrasca Ash sits on the more literal end of the faux-woodfire spectrum because it actually uses a heavy wood-ash load rather than only imitating the look with iron and clay.\n\n- The published green example is Frasca Ash over Green Dragon Matte, paired with Ashleighs Rivulet.\n- The copper and cobalt variants make this recipe useful as a family rather than a single glaze.\n- This belongs in the same test series as Flashing Wood Ash, but with a heavier focus on overlaying and runoff.",
+      "body_html": "<h1>Notes</h1>\n<p>Frasca Ash sits on the more literal end of the faux-woodfire spectrum because it actually uses a heavy wood-ash load rather than only imitating the look with iron and clay.</p>\n<ul><li>The published green example is Frasca Ash over Green Dragon Matte, paired with Ashleighs Rivulet.</li><li>The copper and cobalt variants make this recipe useful as a family rather than a single glaze.</li><li>This belongs in the same test series as Flashing Wood Ash, but with a heavier focus on overlaying and runoff.</li></ul>"
+    },
+    {
+      "recipe_id": "6:hannahs-fake-ash",
+      "slug": "hannahs-fake-ash",
+      "title": "Hannahs Fake Ash",
+      "cone": "6",
+      "atmosphere_targets": [
+        "wood-fired",
+        "ash-look"
+      ],
+      "surface_tags": [
+        "fake ash",
+        "overlay",
+        "dry mineral",
+        "runny"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-hannah-fake-ash",
+        "can-vc-matte"
+      ],
+      "source_primary_id": "can-hannah-fake-ash",
+      "image_paths": [
+        "data/images/recipes/hannahs-fake-ash.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/hannahs-fake-ash.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A very simple cone 6 fake-ash overlay that Hall-Hough used over V.C. Matte to produce dry mineral movement and atmospheric streaking.",
+      "process_application": "Use as an overlay over V.C. Matte for the published result.",
+      "process_notes": "Hall-Hough side-fired these runny glaze combinations on seashells and wadding over a bisque-fired drip tray. For a blue version, add 1.3% cobalt oxide.",
+      "fit_notes": "This is a runny overlay. Protect shelves with shells, wadding, or a drip tray.",
+      "ingredients": [
+        {
+          "material": "Strontium Carbonate",
+          "percentage": 10.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 30.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Cedar Heights Redart",
+          "percentage": 60.0,
+          "role": "clay and color response",
+          "notes": ""
+        },
+        {
+          "material": "Red Iron Oxide",
+          "percentage": 3.0,
+          "role": "colorant",
+          "notes": "Added material."
+        },
+        {
+          "material": "Yellow Ochre",
+          "percentage": 3.0,
+          "role": "colorant",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-electric",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation/neutral.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Published as a cone 6 oxidation/neutral recipe."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis is useful because it is not a full glaze stack by itself. It is an atmospheric overlay that becomes convincing when paired with a matte, quieter base.\n\n- The published example uses Hannahs Fake Ash over V.C. Matte.\n- Hall-Hough also used shells and wadding to manage runoff and create more wood-fire-adjacent presentation.\n- This is a strong candidate for test tiles over several matte bases, not just the original one.",
+      "body_html": "<h1>Notes</h1>\n<p>This is useful because it is not a full glaze stack by itself. It is an atmospheric overlay that becomes convincing when paired with a matte, quieter base.</p>\n<ul><li>The published example uses Hannahs Fake Ash over V.C. Matte.</li><li>Hall-Hough also used shells and wadding to manage runoff and create more wood-fire-adjacent presentation.</li><li>This is a strong candidate for test tiles over several matte bases, not just the original one.</li></ul>"
+    },
+    {
+      "recipe_id": "6:ketchup-red",
+      "slug": "ketchup-red",
+      "title": "Ketchup Red",
+      "cone": "6",
+      "atmosphere_targets": [
+        "reduction red",
+        "iron red"
+      ],
+      "surface_tags": [
+        "matte",
+        "red",
+        "iron"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-ketchup-red"
+      ],
+      "source_primary_id": "can-ketchup-red",
+      "image_paths": [
+        "data/images/recipes/ketchup-red.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/ketchup-red.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A simple cone 6 matte iron red for oxidation or neutral firing that lands in the reduction-red family without relying on copper.",
+      "process_application": "Not captured.",
+      "process_notes": "The Ceramic Arts Network recipe page lists Ketchup Red as a matte medium-red glaze for cone 6 oxidation/neutral firing. Additional application or cooling details were not included on the page.",
+      "fit_notes": "No fit guidance was published on the recipe page. Test on your clay body and firing cycle.",
+      "ingredients": [
+        {
+          "material": "Gerstley Borate",
+          "percentage": 31.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Talc",
+          "percentage": 14.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Custer Feldspar",
+          "percentage": 20.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "EPK Kaolin",
+          "percentage": 5.0,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 30.0,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Spanish Red Iron Oxide",
+          "percentage": 15.0,
+          "role": "colorant",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-oxidation-neutral",
+          "kiln_type": "not captured",
+          "kiln_atmosphere": "oxidation/neutral",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation/neutral.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Recipe page lists cone 6 and oxidation/neutral."
+        }
+      ],
+      "body_markdown": "# Notes\n\nKetchup Red is useful because it gives the archive a very direct iron-red recipe with minimal moving parts.\n\n- It should be compared against Tomato Red Base to see whether the simpler matte system or the more engineered glossy-satin system reads closer to a convincing faux reduction red.\n- Because the published page does not describe application thickness, a structured coat-count test matters here.",
+      "body_html": "<h1>Notes</h1>\n<p>Ketchup Red is useful because it gives the archive a very direct iron-red recipe with minimal moving parts.</p>\n<ul><li>It should be compared against Tomato Red Base to see whether the simpler matte system or the more engineered glossy-satin system reads closer to a convincing faux reduction red.</li><li>Because the published page does not describe application thickness, a structured coat-count test matters here.</li></ul>"
+    },
+    {
+      "recipe_id": "6:tenmoku-gold",
+      "slug": "tenmoku-gold",
+      "title": "Tenmoku Gold",
+      "cone": "6",
+      "atmosphere_targets": [
+        "tenmoku",
+        "teadust",
+        "reduction look"
+      ],
+      "surface_tags": [
+        "glossy to satin",
+        "amber",
+        "gold",
+        "crystalline",
+        "iron"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-tenmoku-gold"
+      ],
+      "source_primary_id": "can-tenmoku-gold",
+      "image_paths": [
+        "data/images/recipes/tenmoku-gold.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/tenmoku-gold.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A cone 6 oxidation tenmoku/teadust glaze that develops amber-gold depth and begins forming pyroxene crystals with slower cooling.",
+      "process_application": "Not captured.",
+      "process_notes": "The Ceramic Arts Network entry says slower cooling starts pyroxene crystal development. Ian Hall-Hough notes that replacing the red iron oxide with 1% cobalt oxide produces a dark blue variant.",
+      "fit_notes": "No fit guidance was published on the recipe page. Test on your clay body and cooling cycle.",
+      "ingredients": [
+        {
+          "material": "Dolomite",
+          "percentage": 7.88,
+          "role": "flux",
+          "notes": "Magnesium source tied to crystal development."
+        },
+        {
+          "material": "Gerstley Borate",
+          "percentage": 3.39,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Lithium Carbonate",
+          "percentage": 6.19,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 8.98,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Cornwall Stone",
+          "percentage": 67.37,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 6.19,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Red Iron Oxide",
+          "percentage": 11.18,
+          "role": "colorant",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-oxidation-slow-cool",
+          "kiln_type": "not captured",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation.",
+          "hold_minutes": 0,
+          "cooling": "Slower cooling encourages pyroxene crystals.",
+          "notes": "Recipe page lists cone 6 and oxidation."
+        }
+      ],
+      "body_markdown": "# Notes\n\nTenmoku Gold matters because it puts the reduction-look target on the darker tenmoku/teadust side rather than the red or shino side.\n\n- Cooling is the main variable here, not only coat count.\n- It should be tested next to Mayco Wrought Iron because both chase dark, speckled, reduction-adjacent surfaces through oxidation.",
+      "body_html": "<h1>Notes</h1>\n<p>Tenmoku Gold matters because it puts the reduction-look target on the darker tenmoku/teadust side rather than the red or shino side.</p>\n<ul><li>Cooling is the main variable here, not only coat count.</li><li>It should be tested next to Mayco Wrought Iron because both chase dark, speckled, reduction-adjacent surfaces through oxidation.</li></ul>"
+    },
+    {
+      "recipe_id": "6:tomato-red-base",
+      "slug": "tomato-red-base",
+      "title": "Tomato Red Base",
+      "cone": "6",
+      "atmosphere_targets": [
+        "reduction red",
+        "iron red"
+      ],
+      "surface_tags": [
+        "glossy to satin",
+        "red",
+        "iron",
+        "crocus martis"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-tomato-red-base"
+      ],
+      "source_primary_id": "can-tomato-red-base",
+      "image_paths": [
+        "data/images/recipes/tomato-red-base.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/tomato-red-base.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A glossy-to-satin cone 6 iron red base from Ryan Coppage, tuned for oxidation and strengthened with a Crocus Martis addition.",
+      "process_application": "Not captured.",
+      "process_notes": "The Ceramic Arts Network recipe page lists this as a cone 6 oxidation red with a glossy-to-satin surface. The published entry does not include separate application or cooling instructions.",
+      "fit_notes": "No fit guidance was published on the recipe page. Test on your clay body and firing cycle.",
+      "ingredients": [
+        {
+          "material": "Bone Ash",
+          "percentage": 5.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Dolomite",
+          "percentage": 6.0,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Gerstley Borate",
+          "percentage": 18.6,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Red Iron Oxide",
+          "percentage": 13.0,
+          "role": "colorant",
+          "notes": ""
+        },
+        {
+          "material": "Talc",
+          "percentage": 10.1,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "F-4 Feldspar",
+          "percentage": 32.7,
+          "role": "flux",
+          "notes": "Source notes Minspar 200 as a substitute."
+        },
+        {
+          "material": "EPK Kaolin",
+          "percentage": 3.4,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 11.2,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Crocus Martis",
+          "percentage": 2.25,
+          "role": "colorant",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-oxidation",
+          "kiln_type": "not captured",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Recipe page lists cone 6 and oxidation."
+        }
+      ],
+      "body_markdown": "# Notes\n\nTomato Red Base is the more constructed reduction-red recipe in this pass.\n\n- The Crocus Martis addition makes it especially interesting for testing depth and mineral complexity against simpler iron-red formulas.\n- It is a strong candidate for a side-by-side with commercial oxblood products because both are chasing the same visual family by different means.",
+      "body_html": "<h1>Notes</h1>\n<p>Tomato Red Base is the more constructed reduction-red recipe in this pass.</p>\n<ul><li>The Crocus Martis addition makes it especially interesting for testing depth and mineral complexity against simpler iron-red formulas.</li><li>It is a strong candidate for a side-by-side with commercial oxblood products because both are chasing the same visual family by different means.</li></ul>"
+    },
+    {
+      "recipe_id": "6:vc-matte",
+      "slug": "vc-matte",
+      "title": "V.C. Matte",
+      "cone": "6",
+      "atmosphere_targets": [
+        "base for ash-look overlays"
+      ],
+      "surface_tags": [
+        "matte",
+        "base glaze",
+        "quiet underlayer"
+      ],
+      "clay_bodies": [],
+      "source_ids": [
+        "can-vc-matte",
+        "can-hannah-fake-ash"
+      ],
+      "source_primary_id": "can-vc-matte",
+      "image_paths": [
+        "data/images/recipes/vc-matte.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/vc-matte.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "researched",
+      "summary": "A stable cone 6 matte base that becomes much more atmospheric when used underneath fake ash and ash-overlay recipes.",
+      "process_application": "Apply as the base layer underneath Hannahs Fake Ash or other runny atmospheric overlays.",
+      "process_notes": "The published combination image shows V.C. Matte under Hannahs Fake Ash, Ashleighs Rivulet, and Frasca Ash. Hall-Hough used shells and wadding under runny combinations.",
+      "fit_notes": "By itself it is matte and non-running, but overlay combinations can run heavily.",
+      "ingredients": [
+        {
+          "material": "Gerstley Borate",
+          "percentage": 11.1,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Lithium Carbonate",
+          "percentage": 8.9,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Whiting",
+          "percentage": 8.9,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Nepheline Syenite",
+          "percentage": 44.4,
+          "role": "flux",
+          "notes": ""
+        },
+        {
+          "material": "Kaolin",
+          "percentage": 11.1,
+          "role": "suspension",
+          "notes": ""
+        },
+        {
+          "material": "Silica",
+          "percentage": 15.6,
+          "role": "glass former",
+          "notes": ""
+        },
+        {
+          "material": "Bentonite",
+          "percentage": 2.0,
+          "role": "suspension",
+          "notes": "Added material."
+        },
+        {
+          "material": "Titanium Dioxide",
+          "percentage": 6.0,
+          "role": "opacifier",
+          "notes": "Added material."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-electric",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Cone 6 oxidation/neutral.",
+          "hold_minutes": 0,
+          "cooling": "Not captured.",
+          "notes": "Published as a cone 6 oxidation/neutral glaze."
+        }
+      ],
+      "body_markdown": "# Notes\n\nV.C. Matte is important even though it is not the dramatic surface by itself.\n\n- It functions as the quiet stage that lets atmospheric overlays read clearly.\n- This should be tested under both fake-ash and real wood-ash overlays because base glaze character often determines whether the final stack feels muddy or alive.",
+      "body_html": "<h1>Notes</h1>\n<p>V.C. Matte is important even though it is not the dramatic surface by itself.</p>\n<ul><li>It functions as the quiet stage that lets atmospheric overlays read clearly.</li><li>This should be tested under both fake-ash and real wood-ash overlays because base glaze character often determines whether the final stack feels muddy or alive.</li></ul>"
+    },
+    {
+      "recipe_id": "6:visual-arts-center-shino",
+      "slug": "visual-arts-center-shino",
+      "title": "Visual Arts Center Shino",
+      "cone": "6",
+      "atmosphere_targets": [
+        "shino",
+        "soda-fired",
+        "salt-fired"
+      ],
+      "surface_tags": [
+        "crawling",
+        "shino",
+        "soda-ash",
+        "white-to-tan",
+        "blushing"
+      ],
+      "clay_bodies": [
+        "Brooklyn Red"
+      ],
+      "source_ids": [
+        "can-visual-arts-shino"
+      ],
+      "source_primary_id": "can-visual-arts-shino",
+      "image_paths": [
+        "data/images/recipes/visual-arts-center-shino.png",
+        "data/images/recipes/visual-arts-center-shino-thickness-grid.jpg",
+        "data/images/recipes/visual-arts-center-shino-rio-range.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/recipes/visual-arts-center-shino.png",
+          "caption": "Ryan Coppage's electric cone 6 shino yunomi from the source article.",
+          "source_url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/recipes/visual-arts-center-shino-thickness-grid.jpg",
+          "caption": "Thickness test tiles showing one, two, and three dips of the base Visual Arts Center Shino.",
+          "source_url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/recipes/visual-arts-center-shino-rio-range.jpg",
+          "caption": "Visual Arts Center Shino with incremental red-iron additions from 0-5%.",
+          "source_url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "researched",
+      "summary": "A cone 6 oxidation shino base built around soda ash, crawling, and a high-kaolin surface so electric firings can approximate some soda- and salt-adjacent atmospheric behavior.",
+      "process_application": "Dip once or twice for controlled crawling. For a more flashing result, spray a red-iron-loaded variant over the base.",
+      "process_notes": "Ryan Coppage notes that thicker applications increase crawling until the glaze begins to peel back too aggressively. The article describes a white base plus a 4% red-iron version sprayed on top and fired fast to cone 6 to emulate a flashing reduction-shino surface.",
+      "fit_notes": "The source published this recipe as a small embedded image. The spodumene percentage here was inferred from the printed 100% total because OCR obscured that numeral. Test before treating the chemistry as fully locked.",
+      "ingredients": [
+        {
+          "material": "Soda Ash",
+          "percentage": 9.09,
+          "role": "flux and soda source",
+          "notes": "Source article says soda ash can create soda-salt crystals and strongly influence surface aesthetics."
+        },
+        {
+          "material": "Spodumene",
+          "percentage": 7.27,
+          "role": "flux and stabilizer",
+          "notes": "Percentage inferred from the published 100% total because the recipe image numeral was obscured."
+        },
+        {
+          "material": "Nepheline Syenite",
+          "percentage": 49.09,
+          "role": "feldspathic flux",
+          "notes": ""
+        },
+        {
+          "material": "EPK Kaolin",
+          "percentage": 34.55,
+          "role": "clay and crawling driver",
+          "notes": "The article stresses relatively high non-calcined kaolin to keep crawling active."
+        }
+      ],
+      "firing_profiles": [
+        {
+          "profile_name": "cone-6-fast-oxidation",
+          "kiln_type": "electric",
+          "kiln_atmosphere": "oxidation",
+          "cone": "6",
+          "peak_temp_f": 2232,
+          "peak_temp_c": 1222,
+          "schedule": "Fast setting to cone 6 in electric oxidation.",
+          "hold_minutes": 0,
+          "cooling": "Not specified.",
+          "notes": "The article frames this as a cone 6 electric oxidation adaptation of atmospheric shino behavior."
+        }
+      ],
+      "body_markdown": "# Notes\n\nThis is the clearest salt/soda-adjacent DIY chemistry in the current hunt because the sodium is already in the recipe at a meaningful level.\n\n- One or two dips appear to be the useful working zone.\n- Triple-dip crawling looks more like glaze failure than controlled atmospheric emulation.\n- The optional iron-sprayed variant is probably the better branch for flashing and blushed electric salt-look tests.\n- The gallery now includes the source article's thickness grid and red-iron-addition range so the record shows more than a single finished cup.",
+      "body_html": "<h1>Notes</h1>\n<p>This is the clearest salt/soda-adjacent DIY chemistry in the current hunt because the sodium is already in the recipe at a meaningful level.</p>\n<ul><li>One or two dips appear to be the useful working zone.</li><li>Triple-dip crawling looks more like glaze failure than controlled atmospheric emulation.</li><li>The optional iron-sprayed variant is probably the better branch for flashing and blushed electric salt-look tests.</li><li>The gallery now includes the source article&#x27;s thickness grid and red-iron-addition range so the record shows more than a single finished cup.</li></ul>"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "amaco-pc-70-copper-red",
+      "slug": "amaco-pc-70-copper-red",
+      "brand": "AMACO",
+      "line": "Potters Choice",
+      "title": "AMACO PC-70 Copper Red",
+      "cone": "5-6",
+      "atmosphere": "oxidation",
+      "product_type": "product",
+      "finish_tags": [
+        "oxblood",
+        "glossy",
+        "breaks-clear"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "copper red"
+      ],
+      "source_ids": [
+        "amaco-pc-70-copper-red",
+        "amaco-potters-choice"
+      ],
+      "image_paths": [
+        "data/images/products/amaco-pc-70-copper-red.jpg",
+        "data/images/products/amaco-pc-70-copper-red-pcf-54-vase.jpg",
+        "data/images/products/amaco-pc-70-copper-red-pcf-33-vase.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/amaco-pc-70-copper-red.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://shop.amaco.com/pc-70-copper-red/",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/amaco-pc-70-copper-red-pcf-54-vase.jpg",
+          "caption": "PC-70 layered with Potter's Choice Flux",
+          "source_url": "https://shop.amaco.com/pc-70-copper-red/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/amaco-pc-70-copper-red-pcf-33-vase.jpg",
+          "caption": "PC-70 layered with Potter's Choice Flux",
+          "source_url": "https://shop.amaco.com/pc-70-copper-red/",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A Potters Choice copper red that promises traditional reduction-copper results in oxidation, breaking clear where thin.",
+      "application_notes": "AMACO says Copper Red gives the same results in oxidation as a traditional reduction copper glaze. Apply 3 coats for best results and do not thin the glaze. The official page also shows layered vase examples using PC-70 with Potter's Choice Flux glazes.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nPC-70 is the cleaner AMACO entry point when the goal is specifically reduction-red language rather than the broader Potters Choice family.\n\n- It belongs in the same commercial test row as Coyote Oxblood so thickness and color quality can be compared directly.\n- The clear breaking at thin spots makes it especially useful on edges and carved transitions.\n- The official gallery now included here also shows how PC-70 behaves in flux-layered combinations, not only as a flat chip.",
+      "body_html": "<h1>Notes</h1>\n<p>PC-70 is the cleaner AMACO entry point when the goal is specifically reduction-red language rather than the broader Potters Choice family.</p>\n<ul><li>It belongs in the same commercial test row as Coyote Oxblood so thickness and color quality can be compared directly.</li><li>The clear breaking at thin spots makes it especially useful on edges and carved transitions.</li><li>The official gallery now included here also shows how PC-70 behaves in flux-layered combinations, not only as a flat chip.</li></ul>"
+    },
+    {
+      "product_id": "amaco-potters-choice",
+      "slug": "amaco-potters-choice",
+      "brand": "AMACO",
+      "line": "Potters Choice",
+      "title": "AMACO Potters Choice",
+      "cone": "5-6",
+      "atmosphere": "oxidation",
+      "product_type": "product-line",
+      "finish_tags": [
+        "fluid",
+        "varied surfaces",
+        "layering"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "historic glaze references",
+        "movement"
+      ],
+      "source_ids": [
+        "amaco-potters-choice"
+      ],
+      "image_paths": [
+        "data/images/products/amaco-potters-choice.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/amaco-potters-choice.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "active",
+      "summary": "A broad commercial line explicitly positioned for reduction-like effects in oxidation with strong layering potential at cone 5-6.",
+      "application_notes": "AMACO positions this line as a cone 5-6 system with layering charts. The line is intended for bisque fired to cone 04 and emphasizes fluid color and surface variation.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nThis is one of the strongest commercial entry points for woodfire-adjacent electric surfaces because the brand is explicit about reduction effects in oxidation.\n\n- Best use case: potters who want a large matrix of buyable options before committing to raw-material mixing.\n- Strong next step: build a focused shortlist of the most ash-like and tenmoku-like colors in the line.",
+      "body_html": "<h1>Notes</h1>\n<p>This is one of the strongest commercial entry points for woodfire-adjacent electric surfaces because the brand is explicit about reduction effects in oxidation.</p>\n<ul><li>Best use case: potters who want a large matrix of buyable options before committing to raw-material mixing.</li><li>Strong next step: build a focused shortlist of the most ash-like and tenmoku-like colors in the line.</li></ul>"
+    },
+    {
+      "product_id": "amaco-shino",
+      "slug": "amaco-shino",
+      "brand": "AMACO",
+      "line": "Shino",
+      "title": "AMACO Shino",
+      "cone": "5-6",
+      "atmosphere": "oxidation",
+      "product_type": "product-line",
+      "finish_tags": [
+        "iron",
+        "gloss-to-matte",
+        "shino-like"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "traditional-japanese",
+        "layerable"
+      ],
+      "source_ids": [
+        "amaco-shino-line",
+        "amaco-potters-choice"
+      ],
+      "image_paths": [
+        "data/images/products/amaco-shino.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/amaco-shino.jpg",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        }
+      ],
+      "status": "active",
+      "summary": "A commercial Shino line aimed at heavy iron reduction looks in oxidation, suitable for red or white clay and layerable with Potters Choice.",
+      "application_notes": "AMACO describes this line as blendable for gloss or matte variation and suitable for cone 5-6. It can also be layered with the Potters Choice line for broader effects.",
+      "food_safe": true,
+      "body_markdown": "# Notes\n\nThis is likely the cleanest off-the-shelf route toward shino-ish electric results without mixing a raw formula.\n\n- It should be tested on both white and red stoneware because the official description calls out both.\n- It belongs in the same comparison grid as Maycoshino because both target iron-rich, traditional surface language.",
+      "body_html": "<h1>Notes</h1>\n<p>This is likely the cleanest off-the-shelf route toward shino-ish electric results without mixing a raw formula.</p>\n<ul><li>It should be tested on both white and red stoneware because the official description calls out both.</li><li>It belongs in the same comparison grid as Maycoshino because both target iron-rich, traditional surface language.</li></ul>"
+    },
+    {
+      "product_id": "coyote-archies-base",
+      "slug": "coyote-archies-base",
+      "brand": "Coyote Clay and Color",
+      "line": "Archies Series",
+      "title": "Coyote Archies Base",
+      "cone": "6",
+      "atmosphere": "electric",
+      "product_type": "product",
+      "finish_tags": [
+        "runny",
+        "layering",
+        "fluid"
+      ],
+      "effect_tags": [
+        "dramatic interaction",
+        "color pulling",
+        "slow-cool sensitive"
+      ],
+      "source_ids": [
+        "coyote-archies-base"
+      ],
+      "image_paths": [
+        "data/images/products/coyote-archies-base.jpg",
+        "data/images/products/coyote-archies-base-brenda-surry.jpg",
+        "data/images/products/coyote-archies-base-diane-botham.jpg",
+        "data/images/products/coyote-archies-base-sue-bang.jpg",
+        "data/images/products/coyote-archies-base-jolene-cap-sake-set.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/coyote-archies-base.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.coyoteclay.com/Images/250%20Tiles/RGArchie%27s%20Base%20MBG034%20RC.jpg",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/coyote-archies-base-brenda-surry.jpg",
+          "caption": "Archie's Base under Pam's Green, Brenda Surry",
+          "source_url": "https://www.coyoteclay.com/Images/Pots/archies%20base/thumbs/Archie%27s%20Base%20under%20Pam%27s%20Green%20ned,%20by%20Brenda%20Surry.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-archies-base-diane-botham.jpg",
+          "caption": "Archie's Base with underglaze on shoulder, Diane Botham",
+          "source_url": "https://www.coyoteclay.com/Images/Pots/archies%20base/thumbs/Archies%20Base,%20underglaze%20on%20shoulder%20med,%20by%20Diane%20Botham.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-archies-base-sue-bang.jpg",
+          "caption": "Archie's Base over Really Red, Sue Bang",
+          "source_url": "https://www.coyoteclay.com/Images/Pots/archies%20base/thumbs/archies%20over%20really%20red%20sue%20bang.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-archies-base-jolene-cap-sake-set.jpg",
+          "caption": "Archie's Base and Black sake set, Jolene Cap",
+          "source_url": "https://www.coyoteclay.com/Images/Pots/archies%20base/thumbs/Jolene%20CapArchiesBase_and_Black_Sake_Set.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A runny commercial glaze that is relatively quiet on its own but becomes highly atmospheric when layered, especially with slow cooling.",
+      "application_notes": "The official page describes it as pale pink or cream on its own and most compelling when combined with other glazes. The Archie series is strongly affected by slow cooling.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nThis is one of the better commercial routes when the goal is interaction rather than single-glaze beauty.\n\n- It should be approached as a system glaze, not a standalone finish.\n- The slow-cool sensitivity makes it especially relevant to this project because controlled cooling is one of the main ways electric work can gain life.\n- The official page now contributes multiple finished-work examples instead of only the glaze tile.",
+      "body_html": "<h1>Notes</h1>\n<p>This is one of the better commercial routes when the goal is interaction rather than single-glaze beauty.</p>\n<ul><li>It should be approached as a system glaze, not a standalone finish.</li><li>The slow-cool sensitivity makes it especially relevant to this project because controlled cooling is one of the main ways electric work can gain life.</li><li>The official page now contributes multiple finished-work examples instead of only the glaze tile.</li></ul>"
+    },
+    {
+      "product_id": "coyote-oxblood",
+      "slug": "coyote-oxblood",
+      "brand": "Coyote Clay and Color",
+      "line": "Copper and Iron Glazes",
+      "title": "Coyote Oxblood",
+      "cone": "6",
+      "atmosphere": "electric",
+      "product_type": "product",
+      "finish_tags": [
+        "glossy",
+        "copper red",
+        "thickness-sensitive"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "local reduction",
+        "oxblood"
+      ],
+      "source_ids": [
+        "coyote-oxblood"
+      ],
+      "image_paths": [
+        "data/images/products/coyote-oxblood.jpg",
+        "data/images/products/coyote-oxblood-alan-mendoza.jpg",
+        "data/images/products/coyote-oxblood-susan-oconnor.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/coyote-oxblood.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/coyote-oxblood-alan-mendoza.jpg",
+          "caption": "Alan Mendoza layered goblet example",
+          "source_url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-oxblood-susan-oconnor.jpg",
+          "caption": "Susan O'Connor porcelain example",
+          "source_url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A cone 6 commercial glaze engineered to create a true copper red in an electric kiln through local reduction chemistry.",
+      "application_notes": "Coyote says Oxblood must be applied very thick to turn red; thinner spots stay clear or grayish. The page marks it dinnerware safe and non-toxic, while still advising users to test all foodware.",
+      "food_safe": true,
+      "body_markdown": "# Notes\n\nCoyote Oxblood is one of the most literal off-the-shelf faux-reduction glazes in the archive.\n\n- It is useful when the goal is specifically copper-red behavior without switching to a reduction firing.\n- Thickness is the main process lever, so it belongs in any reduction-look test grid with a strict thin-medium-thick comparison.\n- The record now includes two artist work examples from the official Coyote gallery instead of only the comparison tile.",
+      "body_html": "<h1>Notes</h1>\n<p>Coyote Oxblood is one of the most literal off-the-shelf faux-reduction glazes in the archive.</p>\n<ul><li>It is useful when the goal is specifically copper-red behavior without switching to a reduction firing.</li><li>Thickness is the main process lever, so it belongs in any reduction-look test grid with a strict thin-medium-thick comparison.</li><li>The record now includes two artist work examples from the official Coyote gallery instead of only the comparison tile.</li></ul>"
+    },
+    {
+      "product_id": "coyote-shino",
+      "slug": "coyote-shino",
+      "brand": "Coyote Clay and Color",
+      "line": "Shino Glazes",
+      "title": "Coyote Shino",
+      "cone": "6",
+      "atmosphere": "electric",
+      "product_type": "product",
+      "finish_tags": [
+        "brown-break",
+        "shino-like",
+        "stable"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "gas-fired look",
+        "layerable"
+      ],
+      "source_ids": [
+        "coyote-shino"
+      ],
+      "image_paths": [
+        "data/images/products/coyote-shino.jpg",
+        "data/images/products/coyote-shino-doug-harries.jpg",
+        "data/images/products/coyote-shino-kristen-lein.jpg",
+        "data/images/products/coyote-shino-judith-richey.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/coyote-shino.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.coyoteclay.com/Glazes/Shino.html",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/coyote-shino-doug-harries.jpg",
+          "caption": "Doug Harries layered Red Gold / Shino / Black example",
+          "source_url": "https://www.coyoteclay.com/Glazes/Shino.html",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-shino-kristen-lein.jpg",
+          "caption": "Kristen Lein shino example",
+          "source_url": "https://www.coyoteclay.com/Glazes/Shino.html",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/coyote-shino-judith-richey.jpg",
+          "caption": "Judith Richey shino mug",
+          "source_url": "https://www.coyoteclay.com/Glazes/Shino.html",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A cone 6 commercial shino marketed as giving a gas-fired look in any kiln, with brown breaking over texture and good layering behavior.",
+      "application_notes": "Coyote describes this glaze as easy to apply, not runny, and best over texture or other glazes. The page also notes that crystals can form in liquid glaze if it is stored below 65 F.",
+      "food_safe": true,
+      "body_markdown": "# Notes\n\nThis is a strong commercial reduction-look glaze because it targets the brown-breaking shino lane directly rather than only offering generic variegation.\n\n- It should be tested on carved and ribbed surfaces because the manufacturer explicitly calls out texture response.\n- It is also a good bridge product between the DIY electric shino recipes and commercial brush-on testing.\n- The gallery now includes finished-piece examples from the official Coyote page, not just the glaze tile.",
+      "body_html": "<h1>Notes</h1>\n<p>This is a strong commercial reduction-look glaze because it targets the brown-breaking shino lane directly rather than only offering generic variegation.</p>\n<ul><li>It should be tested on carved and ribbed surfaces because the manufacturer explicitly calls out texture response.</li><li>It is also a good bridge product between the DIY electric shino recipes and commercial brush-on testing.</li><li>The gallery now includes finished-piece examples from the official Coyote page, not just the glaze tile.</li></ul>"
+    },
+    {
+      "product_id": "laguna-wc-559-artificial-salt",
+      "slug": "laguna-wc-559-artificial-salt",
+      "brand": "Laguna Clay & Glaze Co.",
+      "line": "WC Dry Glazes",
+      "title": "Laguna WC-559 Artificial Salt",
+      "cone": "10",
+      "atmosphere": "",
+      "product_type": "single-product",
+      "finish_tags": [
+        "artificial-salt"
+      ],
+      "effect_tags": [
+        "salt-look",
+        "catalog-verified"
+      ],
+      "source_ids": [
+        "laguna-wc-559-artificial-salt"
+      ],
+      "image_paths": [
+        "data/images/products/laguna-wc-559-artificial-salt.png",
+        "data/images/products/laguna-wc-559-artificial-salt-2.png",
+        "data/images/products/laguna-wc-559-artificial-salt-3.png"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/laguna-wc-559-artificial-salt.png",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/laguna-wc-559-artificial-salt-2.png",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/laguna-wc-559-artificial-salt-3.png",
+          "caption": "",
+          "source_url": "",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A current official Laguna catalog entry sold explicitly as Artificial Salt. The live page confirms title, SKU, imagery, and SDS access, but provides little descriptive copy about the fired surface.",
+      "application_notes": "Official page currently exposes SKU GWC559 and an SDS link but very little application or finish guidance. Treat this as a verified commercial lead that still needs deeper technical documentation.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nThis is the cleanest official Laguna salt-track lead in the current catalog, but it is not yet the most informative.\n\n- It probably belongs in a higher-fire branch unless the project decides to stretch more aggressively into cone 10 comparisons.\n- A future pass should look for a Laguna technical sheet or distributor data that fills in the missing surface description.\n- The official product page does at least provide a three-image gallery, which is now captured locally in the record.",
+      "body_html": "<h1>Notes</h1>\n<p>This is the cleanest official Laguna salt-track lead in the current catalog, but it is not yet the most informative.</p>\n<ul><li>It probably belongs in a higher-fire branch unless the project decides to stretch more aggressively into cone 10 comparisons.</li><li>A future pass should look for a Laguna technical sheet or distributor data that fills in the missing surface description.</li><li>The official product page does at least provide a three-image gallery, which is now captured locally in the record.</li></ul>"
+    },
+    {
+      "product_id": "mayco-wrought-iron",
+      "slug": "mayco-wrought-iron",
+      "brand": "Mayco",
+      "line": "Stoneware",
+      "title": "Mayco SW-111 Wrought Iron",
+      "cone": "6",
+      "atmosphere": "oxidation",
+      "product_type": "product",
+      "finish_tags": [
+        "gloss-matte",
+        "black",
+        "dappled"
+      ],
+      "effect_tags": [
+        "reduction-look",
+        "oil-spot",
+        "thickness-responsive"
+      ],
+      "source_ids": [
+        "mayco-wrought-iron",
+        "mayco-project-todd-mug-wrought-iron-oxblood",
+        "mayco-project-handbuilt-texture-mugs",
+        "mayco-project-cone-6-crackle-vase"
+      ],
+      "image_paths": [
+        "data/images/products/mayco-wrought-iron.jpg",
+        "data/images/products/mayco-wrought-iron-todd-mug.jpg",
+        "data/images/products/mayco-wrought-iron-handbuilt-texture-mugs.jpg",
+        "data/images/products/mayco-wrought-iron-crackle-vase.jpg",
+        "data/images/products/mayco-wrought-iron-cone6-coats.jpg",
+        "data/images/products/mayco-wrought-iron-white-speckled-cone6.jpg",
+        "data/images/products/mayco-wrought-iron-dark-clay-cone6.jpg",
+        "data/images/products/mayco-wrought-iron-over-flux-cone6.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/mayco-wrought-iron.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-todd-mug.jpg",
+          "caption": "Official project mug example",
+          "source_url": "https://www.maycocolors.com/projects/todd-mug-with-wrought-iron-and-oxblood/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-handbuilt-texture-mugs.jpg",
+          "caption": "Official project handbuilt textured mugs",
+          "source_url": "https://www.maycocolors.com/projects/handbuilt-texture-mugs/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-crackle-vase.jpg",
+          "caption": "Official project crackle vase",
+          "source_url": "https://www.maycocolors.com/projects/cone-6-crackle-vase/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-cone6-coats.jpg",
+          "caption": "1, 2, 3 coats at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-white-speckled-cone6.jpg",
+          "caption": "Speckled white clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-dark-clay-cone6.jpg",
+          "caption": "Dark clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-wrought-iron-over-flux-cone6.jpg",
+          "caption": "Over flux at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A cone 6 oxidation glaze that mimics high-fire oil-spot surfaces with a dappled black gloss-matte finish at just two coats.",
+      "application_notes": "Mayco says two coats at cone 6 oxidation produce the oil-spot-like surface. Thinner application reads browner, thicker application reads blacker, and speckled clay bodies may bubble because of the glaze's high manganese content.",
+      "food_safe": true,
+      "body_markdown": "# Notes\n\nWrought Iron covers the oil-spot side of reduction aesthetics more directly than most commercial cone 6 products.\n\n- It should be tested on both smooth and speckled stoneware because the manufacturer calls out bubbling risk on speckled bodies.\n- This is one of the better commercial candidates when the target surface is dark, metallic, and slightly crystalline rather than red or shino-like.\n- The record now includes official Mayco project photos so the page shows actual finished ware, not only the base product image.",
+      "body_html": "<h1>Notes</h1>\n<p>Wrought Iron covers the oil-spot side of reduction aesthetics more directly than most commercial cone 6 products.</p>\n<ul><li>It should be tested on both smooth and speckled stoneware because the manufacturer calls out bubbling risk on speckled bodies.</li><li>This is one of the better commercial candidates when the target surface is dark, metallic, and slightly crystalline rather than red or shino-like.</li><li>The record now includes official Mayco project photos so the page shows actual finished ware, not only the base product image.</li></ul>"
+    },
+    {
+      "product_id": "mayco-maycoshino",
+      "slug": "mayco-maycoshino",
+      "brand": "Mayco",
+      "line": "Stoneware",
+      "title": "Mayco SW-122 Maycoshino",
+      "cone": "6",
+      "atmosphere": "oxidation",
+      "product_type": "product",
+      "finish_tags": [
+        "iron",
+        "variegated",
+        "shino-like"
+      ],
+      "effect_tags": [
+        "brown-break",
+        "cream-over-brown",
+        "thickness-responsive"
+      ],
+      "source_ids": [
+        "mayco-maycoshino",
+        "mayco-glaze-combinations"
+      ],
+      "image_paths": [
+        "data/images/products/mayco-maycoshino.jpg",
+        "data/images/products/mayco-maycoshino-cone6-coats.jpg",
+        "data/images/products/mayco-maycoshino-white-speckled-cone6.jpg",
+        "data/images/products/mayco-maycoshino-dark-clay-cone6.jpg",
+        "data/images/products/mayco-maycoshino-over-flux-cone6.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/mayco-maycoshino.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2020/09/sw-122-600x600.jpg",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/mayco-maycoshino-cone6-coats.jpg",
+          "caption": "1, 2, 3 coats at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-122_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-maycoshino-white-speckled-cone6.jpg",
+          "caption": "Speckled white clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-122_white_speckled_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-maycoshino-dark-clay-cone6.jpg",
+          "caption": "Dark clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-122_dark_clay_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-maycoshino-over-flux-cone6.jpg",
+          "caption": "Over flux at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-122_over_flux_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A commercial iron glaze that shifts from rich brown to creamier shino-like color as thickness increases.",
+      "application_notes": "Mayco notes that one coat gives a solid reddish brown opaque covering, two coats give a cream-tan-buff finish that breaks brown over texture, and three coats introduce waves of cream-tan color over the brown base.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nThis is a strong commercial analog to some of the DIY iron-rich fake-atmospheric glazes because thickness matters visibly.\n\n- Good test candidate on both smooth and carved surfaces.\n- Worth pairing later with Micro Ash in the commercial comparison track.\n- The official gallery now attached here shows thickness response, clay-body response, and a flux-layered example.",
+      "body_html": "<h1>Notes</h1>\n<p>This is a strong commercial analog to some of the DIY iron-rich fake-atmospheric glazes because thickness matters visibly.</p>\n<ul><li>Good test candidate on both smooth and carved surfaces.</li><li>Worth pairing later with Micro Ash in the commercial comparison track.</li><li>The official gallery now attached here shows thickness response, clay-body response, and a flux-layered example.</li></ul>"
+    },
+    {
+      "product_id": "mayco-micro-ash",
+      "slug": "mayco-micro-ash",
+      "brand": "Mayco",
+      "line": "Stoneware",
+      "title": "Mayco SW218 Micro Ash",
+      "cone": "6",
+      "atmosphere": "oxidation or reduction",
+      "product_type": "product",
+      "finish_tags": [
+        "glossy",
+        "translucent",
+        "micro-crystalline",
+        "charcoal"
+      ],
+      "effect_tags": [
+        "periwinkle float",
+        "onyx bloom",
+        "texture break"
+      ],
+      "source_ids": [
+        "mayco-micro-ash",
+        "mayco-glaze-combinations"
+      ],
+      "image_paths": [
+        "data/images/products/mayco-micro-ash.jpg",
+        "data/images/products/mayco-micro-ash-cone6-coats.jpg",
+        "data/images/products/mayco-micro-ash-under-flux-cone6.jpg",
+        "data/images/products/mayco-micro-ash-over-flux-cone6.jpg",
+        "data/images/products/mayco-micro-ash-soda-fired.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/mayco-micro-ash.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2024/03/SW218-600x600.jpg",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/mayco-micro-ash-cone6-coats.jpg",
+          "caption": "1, 2, 3, 4 coats at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2024/03/sw218_1234coats_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-micro-ash-under-flux-cone6.jpg",
+          "caption": "Under flux at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2024/03/sw218_under_sw401_sw402_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-micro-ash-over-flux-cone6.jpg",
+          "caption": "Over flux at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2024/03/sw218_over_sw401_sw402_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-micro-ash-soda-fired.jpg",
+          "caption": "Soda-fired example",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2025/05/sw218_soda_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A fluid commercial glaze that can read like a modern ash surface, with charcoal depth, periwinkle float, and micro-crystalline bloom.",
+      "application_notes": "Mayco recommends cone 6 oxidation for crystalline development. The product is fluid at three coats, so application should recede near the base to avoid runoff.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nMicro Ash is useful because it sits between ash-look and crystalline behavior.\n\n- At cone 6 it promises the most complex surface in the first commercial batch.\n- It should be tested at two and three coats, and on texture, because both movement and crystal development are thickness-dependent.\n- The attached official gallery now shows coat count, flux interaction, and a soda-fired comparison.",
+      "body_html": "<h1>Notes</h1>\n<p>Micro Ash is useful because it sits between ash-look and crystalline behavior.</p>\n<ul><li>At cone 6 it promises the most complex surface in the first commercial batch.</li><li>It should be tested at two and three coats, and on texture, because both movement and crystal development are thickness-dependent.</li><li>The attached official gallery now shows coat count, flux interaction, and a soda-fired comparison.</li></ul>"
+    },
+    {
+      "product_id": "mayco-sea-salt",
+      "slug": "mayco-sea-salt",
+      "brand": "Mayco",
+      "line": "Stoneware Crystal Glaze",
+      "title": "Mayco SW-118 Sea Salt",
+      "cone": "6-10",
+      "atmosphere": "oxidation",
+      "product_type": "single-product",
+      "finish_tags": [
+        "matte",
+        "crystal",
+        "foamy",
+        "textured"
+      ],
+      "effect_tags": [
+        "salt-look",
+        "green blooms",
+        "surface expansion",
+        "layerable"
+      ],
+      "source_ids": [
+        "mayco-sea-salt"
+      ],
+      "image_paths": [
+        "data/images/products/mayco-sea-salt.jpg",
+        "data/images/products/mayco-sea-salt-cone10-reduction.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/mayco-sea-salt.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2020/10/SW-118-Sea-Salt-600x600.jpg",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/mayco-sea-salt-cone10-reduction.jpg",
+          "caption": "Cone 10 reduction example",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2020/09/sw-118_cone10.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A white matte crystal glaze that blooms sage-to-mint green as the crystals melt, producing a foamy textured surface that reads closer to soda or salt accretion than a flat studio matte.",
+      "application_notes": "Mayco says the crystals settle and need strong mixing before first use plus re-stirring between coats. For a lighter crystal effect, the brand suggests two coats of SW-106 Alabaster under one coat of Sea Salt.",
+      "food_safe": true,
+      "body_markdown": "# Notes\n\nThis is a strong commercial salt-track candidate when the goal is texture and bloom rather than literal orange-peel vapor history.\n\n- The Alabaster-under-Sea-Salt stack should be part of the first commercial grid.\n- Vertical orientation matters because the crystal movement is part of the visual read.",
+      "body_html": "<h1>Notes</h1>\n<p>This is a strong commercial salt-track candidate when the goal is texture and bloom rather than literal orange-peel vapor history.</p>\n<ul><li>The Alabaster-under-Sea-Salt stack should be part of the first commercial grid.</li><li>Vertical orientation matters because the crystal movement is part of the visual read.</li></ul>"
+    },
+    {
+      "product_id": "mayco-himalayan-salt",
+      "slug": "mayco-himalayan-salt",
+      "brand": "Mayco",
+      "line": "Stoneware Matte",
+      "title": "Mayco SW-187 Himalayan Salt",
+      "cone": "6-10",
+      "atmosphere": "oxidation",
+      "product_type": "single-product",
+      "finish_tags": [
+        "soft matte",
+        "mottled",
+        "gloss-pooling"
+      ],
+      "effect_tags": [
+        "salt-look",
+        "pink-orange mottling",
+        "mobile",
+        "breaks on texture"
+      ],
+      "source_ids": [
+        "mayco-himalayan-salt"
+      ],
+      "image_paths": [
+        "data/images/products/mayco-himalayan-salt.jpg",
+        "data/images/products/mayco-himalayan-salt-cone6-coats.jpg",
+        "data/images/products/mayco-himalayan-salt-white-speckled-cone6.jpg",
+        "data/images/products/mayco-himalayan-salt-dark-clay-cone6.jpg",
+        "data/images/products/mayco-himalayan-salt-soda-fired.jpg"
+      ],
+      "images": [
+        {
+          "path": "data/images/products/mayco-himalayan-salt.jpg",
+          "caption": "Primary glaze tile",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2021/03/SW-187-600x600.jpg",
+          "source_page_url": "",
+          "is_primary": true
+        },
+        {
+          "path": "data/images/products/mayco-himalayan-salt-cone6-coats.jpg",
+          "caption": "1, 2, 3 coats at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-187_cone6_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-himalayan-salt-white-speckled-cone6.jpg",
+          "caption": "Speckled white clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-187_white_speckled_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-himalayan-salt-dark-clay-cone6.jpg",
+          "caption": "Dark clay at cone 6 oxidation",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2022/05/sw-187_dark_clay_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        },
+        {
+          "path": "data/images/products/mayco-himalayan-salt-soda-fired.jpg",
+          "caption": "Soda-fired example",
+          "source_url": "https://www.maycocolors.com/wp-content/uploads/2025/05/sw187_soda-fired_web.jpg",
+          "source_page_url": "",
+          "is_primary": false
+        }
+      ],
+      "status": "active",
+      "summary": "A soft matte glaze with light pink and burnt-orange mottling that pools glossy clear at cone 6, giving a flashed salt- or soda-adjacent read when used with enough texture and thickness contrast.",
+      "application_notes": "Mayco warns that the glaze can be very mobile, recommends receding coats on vertical work, and does not recommend it for dinnerware because of surface durability.",
+      "food_safe": false,
+      "body_markdown": "# Notes\n\nThis is likely the easier commercial route toward a warm flashed salt/soda color story.\n\n- It should be tested on textured forms where the gray break and clear pooling can separate visually.\n- Because mobility is part of the look, application range matters more than with a stable satin matte.\n- The official gallery now attached here shows coat count, clay-body response, and a soda-fired comparison.",
+      "body_html": "<h1>Notes</h1>\n<p>This is likely the easier commercial route toward a warm flashed salt/soda color story.</p>\n<ul><li>It should be tested on textured forms where the gray break and clear pooling can separate visually.</li><li>Because mobility is part of the look, application range matters more than with a stable satin matte.</li><li>The official gallery now attached here shows coat count, clay-body response, and a soda-fired comparison.</li></ul>"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "coyote-oxblood",
+      "slug": "coyote-oxblood",
+      "title": "Coyote Oxblood",
+      "url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+      "domain": "www.coyoteclay.com",
+      "publisher": "Coyote Clay and Color",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "coyote",
+        "oxblood",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:30-04:00",
+      "body_markdown": "Revisited to capture additional work-example photos from the product page gallery.",
+      "body_html": "<p>Revisited to capture additional work-example photos from the product page gallery.</p>"
+    },
+    {
+      "source_id": "mayco-micro-ash",
+      "slug": "mayco-micro-ash",
+      "title": "Mayco SW218 Micro Ash",
+      "url": "https://www.maycocolors.com/product/sw218-micro-ash/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "ash-look",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Reviewed official gallery/result photos for local image capture and captions.",
+      "body_html": "<p>Reviewed official gallery/result photos for local image capture and captions.</p>"
+    },
+    {
+      "source_id": "mayco-himalayan-salt",
+      "slug": "mayco-himalayan-salt",
+      "title": "Mayco SW-187 Himalayan Salt",
+      "url": "https://www.maycocolors.com/product/sw-187-himalayan-salt/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco",
+      "source_type": "product",
+      "reliability": "official",
+      "tags": [
+        "commercial",
+        "mayco",
+        "salt-look",
+        "cone-6",
+        "cone-10"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Official Mayco page for SW-187 Himalayan Salt.\n\nThe current page describes it as:\n\n- cone 6 soft matte with light pink and burnt orange mottling\n- a glaze that pools glossy clear at cone 6\n- very mobile on vertical work, with Mayco recommending receding coats to avoid runoff\n- not recommended for dinnerware because of surface durability\n\nMayco also notes that wood and soda firing results vary, which is useful context when comparing this glaze to actual atmospheric salt or soda surfaces.",
+      "body_html": "<p>Official Mayco page for SW-187 Himalayan Salt.</p>\n<p>The current page describes it as:</p>\n<ul><li>cone 6 soft matte with light pink and burnt orange mottling</li><li>a glaze that pools glossy clear at cone 6</li><li>very mobile on vertical work, with Mayco recommending receding coats to avoid runoff</li><li>not recommended for dinnerware because of surface durability</li></ul>\n<p>Mayco also notes that wood and soda firing results vary, which is useful context when comparing this glaze to actual atmospheric salt or soda surfaces.</p>"
+    },
+    {
+      "source_id": "mayco-maycoshino",
+      "slug": "mayco-maycoshino",
+      "title": "Mayco SW-122 Maycoshino",
+      "url": "https://www.maycocolors.com/product/sw-122-maycoshino/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "shino",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Reviewed official gallery/result photos for local image capture and captions.",
+      "body_html": "<p>Reviewed official gallery/result photos for local image capture and captions.</p>"
+    },
+    {
+      "source_id": "mayco-sea-salt",
+      "slug": "mayco-sea-salt",
+      "title": "Mayco SW-118 Sea Salt",
+      "url": "https://www.maycocolors.com/product/sw-118-sea-salt/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco",
+      "source_type": "product",
+      "reliability": "official",
+      "tags": [
+        "commercial",
+        "mayco",
+        "salt-look",
+        "cone-6",
+        "cone-10"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Official Mayco page for SW-118 Sea Salt.\n\nKey details exposed on the current product page:\n\n- cone 6 result is a white matte glaze with a sage green crystal\n- as the crystal melts, green blooms appear and produce a foamy textured surface\n- cone 10 shifts the base toward pale lavender-gray with mint-green crystals\n- Mayco suggests SW-106 Alabaster under Sea Salt when a lighter crystal effect is wanted\n\nThe page also marks the glaze dinnerware safe and gives the fuller crystal-glaze handling note about aggressive mixing and redistributing settled crystals.",
+      "body_html": "<p>Official Mayco page for SW-118 Sea Salt.</p>\n<p>Key details exposed on the current product page:</p>\n<ul><li>cone 6 result is a white matte glaze with a sage green crystal</li><li>as the crystal melts, green blooms appear and produce a foamy textured surface</li><li>cone 10 shifts the base toward pale lavender-gray with mint-green crystals</li><li>Mayco suggests SW-106 Alabaster under Sea Salt when a lighter crystal effect is wanted</li></ul>\n<p>The page also marks the glaze dinnerware safe and gives the fuller crystal-glaze handling note about aggressive mixing and redistributing settled crystals.</p>"
+    },
+    {
+      "source_id": "mayco-wrought-iron",
+      "slug": "mayco-wrought-iron",
+      "title": "Mayco SW-111 Wrought Iron",
+      "url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "reduction-look",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Reviewed official gallery images for work examples.",
+      "body_html": "<p>Reviewed official gallery images for work examples.</p>"
+    },
+    {
+      "source_id": "coyote-shino",
+      "slug": "coyote-shino",
+      "title": "Coyote Shino",
+      "url": "https://www.coyoteclay.com/Glazes/Shino.html",
+      "domain": "www.coyoteclay.com",
+      "publisher": "Coyote Clay and Color",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "coyote",
+        "shino",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Revisited to capture additional work-example photos from the product page gallery.",
+      "body_html": "<p>Revisited to capture additional work-example photos from the product page gallery.</p>"
+    },
+    {
+      "source_id": "coyote-archies-base",
+      "slug": "coyote-archies-base",
+      "title": "Coyote Archies Base",
+      "url": "https://www.coyoteclay.com/Glazes/ArchiesBase.html",
+      "domain": "www.coyoteclay.com",
+      "publisher": "Coyote Clay and Color",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "coyote",
+        "archies",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Reviewed official gallery/result photos for local image capture and captions.",
+      "body_html": "<p>Reviewed official gallery/result photos for local image capture and captions.</p>"
+    },
+    {
+      "source_id": "amaco-shino-line",
+      "slug": "amaco-shino-line",
+      "title": "AMACO Shino",
+      "url": "https://shop.amaco.com/glazes-underglazes/high-fire-glazes/sh-shino/",
+      "domain": "shop.amaco.com",
+      "publisher": "AMACO",
+      "source_type": "product-line",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "amaco",
+        "shino",
+        "cone-5",
+        "cone-6",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-18T06:39:29-04:00",
+      "body_markdown": "Reviewed official gallery/result photos for local image capture and captions.",
+      "body_html": "<p>Reviewed official gallery/result photos for local image capture and captions.</p>"
+    },
+    {
+      "source_id": "can-visual-arts-shino",
+      "slug": "can-visual-arts-shino",
+      "title": "Visual Arts Shino",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "article",
+      "reliability": "editorial",
+      "tags": [
+        "diy",
+        "article",
+        "cone-6",
+        "oxidation",
+        "shino",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-18T06:30:57-04:00",
+      "body_markdown": "Ryan Coppage lays out a useful sodium-forward path toward electric faux salt and soda surfaces by reframing cone 6 oxidation shino as a controlled crawling system rather than a literal reduction substitute.\n\nUseful details from the article:\n\n- soda ash is called out as a salt that drives spotting, blushes, soda glass, and other surface aesthetics\n- Coppage notes that 4-16% soda ash can create soda-salt crystals on the glaze surface\n- the example cups were fired to cone 6 in an electric kiln, using a white base plus a sprayed red-iron variant for a more flashing result\n\nThe article includes a small embedded recipe image for the base shino. The recipe record created from this source notes that the spodumene percentage was inferred from the printed 100% total because OCR obscured that single numeral.",
+      "body_html": "<p>Ryan Coppage lays out a useful sodium-forward path toward electric faux salt and soda surfaces by reframing cone 6 oxidation shino as a controlled crawling system rather than a literal reduction substitute.</p>\n<p>Useful details from the article:</p>\n<ul><li>soda ash is called out as a salt that drives spotting, blushes, soda glass, and other surface aesthetics</li><li>Coppage notes that 4-16% soda ash can create soda-salt crystals on the glaze surface</li><li>the example cups were fired to cone 6 in an electric kiln, using a white base plus a sprayed red-iron variant for a more flashing result</li></ul>\n<p>The article includes a small embedded recipe image for the base shino. The recipe record created from this source notes that the spodumene percentage was inferred from the printed 100% total because OCR obscured that single numeral.</p>"
+    },
+    {
+      "source_id": "mayco-project-todd-mug-wrought-iron-oxblood",
+      "slug": "mayco-project-todd-mug-wrought-iron-oxblood",
+      "title": "Todd Mug with Wrought Iron and Oxblood",
+      "url": "https://www.maycocolors.com/projects/todd-mug-with-wrought-iron-and-oxblood/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco Colors",
+      "source_type": "project",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "project",
+        "wrought-iron",
+        "cone-6",
+        "oxidation"
+      ],
+      "last_visited": "2026-03-18T06:30:57-04:00",
+      "body_markdown": "Official project image for Wrought Iron on functional ware.",
+      "body_html": "<p>Official project image for Wrought Iron on functional ware.</p>"
+    },
+    {
+      "source_id": "mayco-project-handbuilt-texture-mugs",
+      "slug": "mayco-project-handbuilt-texture-mugs",
+      "title": "Handbuilt Texture Mugs",
+      "url": "https://www.maycocolors.com/projects/handbuilt-texture-mugs/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco Colors",
+      "source_type": "project",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "project",
+        "wrought-iron",
+        "cone-6",
+        "oxidation"
+      ],
+      "last_visited": "2026-03-18T06:30:57-04:00",
+      "body_markdown": "Official project image showing Wrought Iron on textured mugs.",
+      "body_html": "<p>Official project image showing Wrought Iron on textured mugs.</p>"
+    },
+    {
+      "source_id": "mayco-project-cone-6-crackle-vase",
+      "slug": "mayco-project-cone-6-crackle-vase",
+      "title": "Cone 6 Crackle Vase",
+      "url": "https://www.maycocolors.com/projects/cone-6-crackle-vase/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco Colors",
+      "source_type": "project",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "project",
+        "wrought-iron",
+        "cone-6",
+        "oxidation"
+      ],
+      "last_visited": "2026-03-18T06:30:57-04:00",
+      "body_markdown": "Official project image showing Wrought Iron on a cone 6 vase.",
+      "body_html": "<p>Official project image showing Wrought Iron on a cone 6 vase.</p>"
+    },
+    {
+      "source_id": "can-tomato-red-base",
+      "slug": "can-tomato-red-base",
+      "title": "Tomato Red Base (Tile 6)",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tomato-Red-Base-Tile-6-235212",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "cone-6",
+        "oxidation",
+        "red",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-18T06:30:56-04:00",
+      "body_markdown": "Checked recipe page for additional work images.",
+      "body_html": "<p>Checked recipe page for additional work images.</p>"
+    },
+    {
+      "source_id": "can-tenmoku-gold",
+      "slug": "can-tenmoku-gold",
+      "title": "Tenmoku Gold",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tenmoku-Gold-246949",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "cone-6",
+        "oxidation",
+        "tenmoku",
+        "teadust",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-18T06:30:56-04:00",
+      "body_markdown": "Checked recipe page for additional work images.",
+      "body_html": "<p>Checked recipe page for additional work images.</p>"
+    },
+    {
+      "source_id": "can-ketchup-red",
+      "slug": "can-ketchup-red",
+      "title": "Ketchup Red",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ketchup-Red-142686",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "cone-6",
+        "oxidation",
+        "red",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-18T06:30:56-04:00",
+      "body_markdown": "Revisited while checking whether more example-work photos were available on the source page.",
+      "body_html": "<p>Revisited while checking whether more example-work photos were available on the source page.</p>"
+    },
+    {
+      "source_id": "amaco-pc-70-copper-red",
+      "slug": "amaco-pc-70-copper-red",
+      "title": "AMACO PC-70 Copper Red",
+      "url": "https://shop.amaco.com/pc-70-copper-red/",
+      "domain": "shop.amaco.com",
+      "publisher": "AMACO",
+      "source_type": "product",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "amaco",
+        "cone-5",
+        "cone-6",
+        "copper-red",
+        "reduction-look",
+        "oxidation"
+      ],
+      "last_visited": "2026-03-18T06:30:55-04:00",
+      "body_markdown": "Revisited to capture additional work-example images from the product page.",
+      "body_html": "<p>Revisited to capture additional work-example images from the product page.</p>"
+    },
+    {
+      "source_id": "laguna-wc-559-artificial-salt",
+      "slug": "laguna-wc-559-artificial-salt",
+      "title": "WC-559 ^10 Artificial Salt Glaze - Dry",
+      "url": "https://www.lagunaclay.com/products/wc-559-10-artificial-salt-glaze-dry",
+      "domain": "www.lagunaclay.com",
+      "publisher": "Laguna Clay & Glaze Co.",
+      "source_type": "product-page",
+      "reliability": "official",
+      "tags": [
+        "commercial",
+        "laguna",
+        "cone-10",
+        "salt-look",
+        "artificial-salt",
+        "dry-glaze"
+      ],
+      "last_visited": "2026-03-18T06:29:09-04:00",
+      "body_markdown": "Official Laguna page for WC-559 Artificial Salt.\n\nThe live page is thinner than Mayco's product pages, but it does expose several important catalog facts:\n\n- current title: `WC-559 ^10 Artificial Salt Glaze - Dry`\n- SKU: `GWC559`\n- product type: `^10 GLAZE (DRY)`\n- an SDS link\n- current product images\n\nBecause the official page is sparse on descriptive copy, this source should be treated as proof of current catalog status rather than a full technical brief.",
+      "body_html": "<p>Official Laguna page for WC-559 Artificial Salt.</p>\n<p>The live page is thinner than Mayco&#x27;s product pages, but it does expose several important catalog facts:</p>\n<ul><li>current title: <code>WC-559 ^10 Artificial Salt Glaze - Dry</code></li><li>SKU: <code>GWC559</code></li><li>product type: <code>^10 GLAZE (DRY)</code></li><li>an SDS link</li><li>current product images</li></ul>\n<p>Because the official page is sparse on descriptive copy, this source should be treated as proof of current catalog status rather than a full technical brief.</p>"
+    },
+    {
+      "source_id": "minori-soda-spray-oxidation",
+      "slug": "minori-soda-spray-oxidation",
+      "title": "Soda Spray (Oxidation)",
+      "url": "https://www.minorithorpe.com/blog/2017/2/11/soda-spray-firing-oxidation",
+      "domain": "www.minorithorpe.com",
+      "publisher": "Minori Thorpe | Ceramics",
+      "source_type": "blog-post",
+      "reliability": "primary",
+      "tags": [
+        "diy",
+        "process",
+        "cone-6",
+        "oxidation",
+        "soda-spray",
+        "salt-look"
+      ],
+      "last_visited": "2026-03-17T22:15:02-04:00",
+      "body_markdown": "Minori Thorpe describes spraying glazed pots with a solution made from equal weights of soda ash and baking soda before cone 6 electric firing.\n\nThe post matters because it isolates sodium surface treatment from the glaze body itself:\n\n- same glazed forms are shown with and without the soda spray\n- the sprayed examples read noticeably more atmospheric and disrupted\n- Thorpe reports no significant harmful effects on the kiln bricks and heating elements in that test\n\nThis is not a full glaze recipe source, but it is a strong process note for the salt/soda DIY track.",
+      "body_html": "<p>Minori Thorpe describes spraying glazed pots with a solution made from equal weights of soda ash and baking soda before cone 6 electric firing.</p>\n<p>The post matters because it isolates sodium surface treatment from the glaze body itself:</p>\n<ul><li>same glazed forms are shown with and without the soda spray</li><li>the sprayed examples read noticeably more atmospheric and disrupted</li><li>Thorpe reports no significant harmful effects on the kiln bricks and heating elements in that test</li></ul>\n<p>This is not a full glaze recipe source, but it is a strong process note for the salt/soda DIY track.</p>"
+    },
+    {
+      "source_id": "can-bates-clear",
+      "slug": "can-bates-clear",
+      "title": "Bates Clear",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Bates-Clear-253116",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "editorial",
+      "tags": [
+        "diy",
+        "recipe",
+        "cone-6",
+        "oxidation",
+        "soda-ash",
+        "salt-look",
+        "ceramic-arts-network"
+      ],
+      "last_visited": "2026-03-17T22:15:02-04:00",
+      "body_markdown": "Antonio Martinez presents this as a glaze he normally fires to cone 6 in oxidation, though he also notes it has behaved reliably for him at cone 10 reduction.\n\nThe key salt/soda-look detail is procedural rather than compositional:\n\n- dip the piece in Bates Clear\n- sprinkle soda ash onto selected wet areas\n- use the sodium addition to trigger localized runs and more varied surface movement\n\nThe page also exposes a full base recipe and an 8% Mason Stain 6376 Robin's Egg addition shown alongside the base glaze.",
+      "body_html": "<p>Antonio Martinez presents this as a glaze he normally fires to cone 6 in oxidation, though he also notes it has behaved reliably for him at cone 10 reduction.</p>\n<p>The key salt/soda-look detail is procedural rather than compositional:</p>\n<ul><li>dip the piece in Bates Clear</li><li>sprinkle soda ash onto selected wet areas</li><li>use the sodium addition to trigger localized runs and more varied surface movement</li></ul>\n<p>The page also exposes a full base recipe and an 8% Mason Stain 6376 Robin&#x27;s Egg addition shown alongside the base glaze.</p>"
+    },
+    {
+      "source_id": "mayco-glaze-combinations",
+      "slug": "mayco-glaze-combinations",
+      "title": "Mayco Glaze Combinations",
+      "url": "https://www.maycocolors.com/glaze-combinations/",
+      "domain": "www.maycocolors.com",
+      "publisher": "Mayco Colors",
+      "source_type": "reference",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "mayco",
+        "layering",
+        "reference",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:54:00-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "amaco-potters-choice",
+      "slug": "amaco-potters-choice",
+      "title": "AMACO Potters Choice",
+      "url": "https://shop.amaco.com/glazes-underglazes/high-fire-glazes/pc-potters-choice/",
+      "domain": "shop.amaco.com",
+      "publisher": "AMACO",
+      "source_type": "product-line",
+      "reliability": "",
+      "tags": [
+        "commercial",
+        "amaco",
+        "cone-5",
+        "cone-6",
+        "layering",
+        "reduction-look"
+      ],
+      "last_visited": "2026-03-17T21:54:00-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-vc-matte",
+      "slug": "can-vc-matte",
+      "title": "V.C. Matte",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/V-C-Matte-168673",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "base-glaze",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-techno-electric-wood-ash",
+      "slug": "can-techno-electric-wood-ash",
+      "title": "Techno File: Electric Wood Ash",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Techno-File-Electric-Wood-Ash",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "article",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "electric",
+        "wood-ash",
+        "oxidation"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-hannah-fake-ash",
+      "slug": "can-hannah-fake-ash",
+      "title": "Hannahs Fake Ash",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Hannahs-Fake-Ash-168713",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "fake-ash",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-frasca-ash",
+      "slug": "can-frasca-ash",
+      "title": "Frasca Ash",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Frasca-Ash-168709",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "wood-ash",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-flashing-wood-ash",
+      "slug": "can-flashing-wood-ash",
+      "title": "Flashing Wood Ash glaze",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Flashing-Wood-Ash-glaze-144825",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "wood-ash",
+        "flashing"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-colored-shigaraki",
+      "slug": "can-colored-shigaraki",
+      "title": "Elliott Kaysers Colored Shigaraki",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Elliott-Kaysers-Colored-Shigaraki-cone-6-154330",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "shigaraki",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "yoko-cone-5-6-glazes",
+      "slug": "yoko-cone-5-6-glazes",
+      "title": "Cone 5 and 6 Glazes",
+      "url": "https://www.yokosekinobove.com/cone-5-and-6-glazes",
+      "domain": "www.yokosekinobove.com",
+      "publisher": "Yoko Sekino-Bove",
+      "source_type": "article",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "article",
+        "cone-5",
+        "cone-6",
+        "fake-ash"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    },
+    {
+      "source_id": "can-ashleighs-rivulet",
+      "slug": "can-ashleighs-rivulet",
+      "title": "Ashleighs Rivulet",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ashleighs-Rivulet-168582",
+      "domain": "ceramicartsnetwork.org",
+      "publisher": "Ceramic Arts Network",
+      "source_type": "recipe",
+      "reliability": "",
+      "tags": [
+        "diy",
+        "recipe",
+        "rivulet",
+        "cone-6"
+      ],
+      "last_visited": "2026-03-17T21:53:25-04:00",
+      "body_markdown": "",
+      "body_html": ""
+    }
+  ],
+  "actions": [
+    {
+      "action_id": "2026-03-18-commercial-comparison-grid",
+      "title": "Build a commercial comparison grid",
+      "status": "open",
+      "priority": "high",
+      "owner": "agent",
+      "category": "commercial",
+      "due_date": "2026-03-31",
+      "related_cones": [
+        "5",
+        "6"
+      ],
+      "related_recipe_id": "",
+      "related_source_id": "",
+      "body_markdown": "Create a tighter comparison grid for AMACO Potters Choice and Shino, Mayco Maycoshino and Micro Ash, and Coyote Archies Base, with attention to thickness, layering, and slow-cool behavior.",
+      "body_html": "<p>Create a tighter comparison grid for AMACO Potters Choice and Shino, Mayco Maycoshino and Micro Ash, and Coyote Archies Base, with attention to thickness, layering, and slow-cool behavior.</p>"
+    },
+    {
+      "action_id": "2026-03-17-salt-glaze-test-grid",
+      "title": "Build a salt-look electric test grid",
+      "status": "open",
+      "priority": "high",
+      "owner": "agent",
+      "category": "salt-glaze",
+      "due_date": "2026-03-31",
+      "related_cones": [
+        "6",
+        "10"
+      ],
+      "related_recipe_id": "",
+      "related_source_id": "",
+      "body_markdown": "Run a comparison set that separates sodium-driven DIY effects from commercial salt-track products:\n\n- Bates Clear with light and heavy soda-ash sprinkle\n- Visual Arts Center Shino at one and two dips, plus an iron-sprayed branch\n- A neutral glaze plus Minori-style soda spray\n- Mayco Sea Salt straight and over SW-106 Alabaster\n- Mayco Himalayan Salt on vertical texture\n- Decide whether Laguna WC-559 should live in the main electric program or in a separate cone 10 branch",
+      "body_html": "<p>Run a comparison set that separates sodium-driven DIY effects from commercial salt-track products:</p>\n<ul><li>Bates Clear with light and heavy soda-ash sprinkle</li><li>Visual Arts Center Shino at one and two dips, plus an iron-sprayed branch</li><li>A neutral glaze plus Minori-style soda spray</li><li>Mayco Sea Salt straight and over SW-106 Alabaster</li><li>Mayco Himalayan Salt on vertical texture</li><li>Decide whether Laguna WC-559 should live in the main electric program or in a separate cone 10 branch</li></ul>"
+    },
+    {
+      "action_id": "2026-03-17-image-process-standards",
+      "title": "Define image and process capture standards",
+      "status": "open",
+      "priority": "medium",
+      "owner": "agent",
+      "category": "governance",
+      "due_date": "2026-03-24",
+      "related_cones": [],
+      "related_recipe_id": "",
+      "related_source_id": "",
+      "body_markdown": "Document a consistent approach for image naming, image attribution, application thickness notes, clay body context, and firing schedule normalization.",
+      "body_html": "<p>Document a consistent approach for image naming, image attribution, application thickness notes, clay body context, and firing schedule normalization.</p>"
+    },
+    {
+      "action_id": "2026-03-17-cone-6-ingest",
+      "title": "Ingest first cone 6 faux atmospheric recipes",
+      "status": "in_progress",
+      "priority": "high",
+      "owner": "agent",
+      "category": "recipes",
+      "due_date": "2026-03-31",
+      "related_cones": [
+        "6"
+      ],
+      "related_recipe_id": "",
+      "related_source_id": "",
+      "body_markdown": "The first batch is now in the archive. Continue toward a fuller cone 6 grid with at least ten oxidation recipes and a small commercial comparison set.",
+      "body_html": "<p>The first batch is now in the archive. Continue toward a fuller cone 6 grid with at least ten oxidation recipes and a small commercial comparison set.</p>"
+    },
+    {
+      "action_id": "2026-03-17-source-shortlist",
+      "title": "Build the first research source shortlist",
+      "status": "done",
+      "priority": "high",
+      "owner": "agent",
+      "category": "research",
+      "due_date": "2026-03-24",
+      "related_cones": [
+        "6",
+        "10"
+      ],
+      "related_recipe_id": "",
+      "related_source_id": "",
+      "body_markdown": "Completed the first shortlist for wood-fire-looking electric glazes, including Ceramic Arts Network, Yoko Sekino-Bove, AMACO, Mayco, and Coyote.",
+      "body_html": "<p>Completed the first shortlist for wood-fire-looking electric glazes, including Ceramic Arts Network, Yoko Sekino-Bove, AMACO, Mayco, and Coyote.</p>"
+    }
+  ],
+  "test_plans": [
+    {
+      "plan_id": "2026-03-cone-6-dark-reduction-look-matrix",
+      "slug": "2026-03-cone-6-dark-reduction-look-matrix",
+      "title": "Cone 6 Dark Reduction-Look Matrix",
+      "cone": "6",
+      "status": "planned",
+      "clay_bodies": [
+        "smooth buff cone 6 stoneware",
+        "speckled cone 6 stoneware"
+      ],
+      "candidate_ids": [
+        "mayco-wrought-iron",
+        "6:tenmoku-gold"
+      ],
+      "comparison_axes": [
+        "coat count",
+        "normal cool vs slow cool",
+        "smooth vs textured surface",
+        "buff vs speckled clay",
+        "commercial oil-spot look vs DIY tenmoku/teadust"
+      ],
+      "firing_variants": [
+        "two coats",
+        "three coats",
+        "normal cooling",
+        "slow cooling",
+        "textured vertical test tile"
+      ],
+      "success_criteria": [
+        "dark reduction-like depth",
+        "visible spotting or crystal activity",
+        "good texture response",
+        "limited bubbling on speckled clay",
+        "clear visual distinction between black oil-spot and amber tenmoku lanes"
+      ],
+      "markdown_path": "records/test_plans/2026-03-cone-6-dark-reduction-look-matrix.md",
+      "body_markdown": "# Objective\n\nCompare the two strongest dark cone 6 oxidation candidates that can stand in for reduction-fired oil-spot, tenmoku, and teadust surfaces.\n\n## Candidate Set\n\n- Mayco SW-111 Wrought Iron\n- Tenmoku Gold\n\n## Tile Structure\n\nFor each candidate:\n\n1. Buff stoneware, smooth tile\n2. Buff stoneware, textured tile\n3. Speckled stoneware, smooth tile\n4. Speckled stoneware, textured tile\n\nApplication structure:\n\n- Wrought Iron: two and three coats\n- Tenmoku Gold: standard and heavy application\n\n## Priority Experiments\n\n### Priority A\n\n- Wrought Iron on buff and speckled clay at two coats\n- Tenmoku Gold on buff clay with normal cooling and slow cooling\n- textured-tile comparison for both candidates\n\n### Priority B\n\n- Wrought Iron three-coat branch\n- Tenmoku Gold heavy-application branch\n- close inspection of bubbling on speckled bodies\n\n## What To Record\n\n- exact clay body\n- coat count or wet thickness\n- cooling profile\n- whether the surface reads black, brown-black, amber, gold, or metallic gray\n- crystal, spot, or mottling development\n- bubbling, blistering, or matte/gloss imbalance\n\n## Expected Outcomes\n\nWrought Iron is likely to be the quickest path to a commercial oil-spot-like surface.\n\nTenmoku Gold is likely to be richer when cooling is controlled well.\n\nThe useful decision point is not which glaze is \"better\" in the abstract, but whether the target surface is black metallic oil spot or amber-black tenmoku/teadust.",
+      "body_html": "<h1>Objective</h1>\n<p>Compare the two strongest dark cone 6 oxidation candidates that can stand in for reduction-fired oil-spot, tenmoku, and teadust surfaces.</p>\n<h2>Candidate Set</h2>\n<ul><li>Mayco SW-111 Wrought Iron</li><li>Tenmoku Gold</li></ul>\n<h2>Tile Structure</h2>\n<p>For each candidate:</p>\n<ol><li>Buff stoneware, smooth tile</li><li>Buff stoneware, textured tile</li><li>Speckled stoneware, smooth tile</li><li>Speckled stoneware, textured tile</li></ol>\n<p>Application structure:</p>\n<ul><li>Wrought Iron: two and three coats</li><li>Tenmoku Gold: standard and heavy application</li></ul>\n<h2>Priority Experiments</h2>\n<h3>Priority A</h3>\n<ul><li>Wrought Iron on buff and speckled clay at two coats</li><li>Tenmoku Gold on buff clay with normal cooling and slow cooling</li><li>textured-tile comparison for both candidates</li></ul>\n<h3>Priority B</h3>\n<ul><li>Wrought Iron three-coat branch</li><li>Tenmoku Gold heavy-application branch</li><li>close inspection of bubbling on speckled bodies</li></ul>\n<h2>What To Record</h2>\n<ul><li>exact clay body</li><li>coat count or wet thickness</li><li>cooling profile</li><li>whether the surface reads black, brown-black, amber, gold, or metallic gray</li><li>crystal, spot, or mottling development</li><li>bubbling, blistering, or matte/gloss imbalance</li></ul>\n<h2>Expected Outcomes</h2>\n<p>Wrought Iron is likely to be the quickest path to a commercial oil-spot-like surface.</p>\n<p>Tenmoku Gold is likely to be richer when cooling is controlled well.</p>\n<p>The useful decision point is not which glaze is &quot;better&quot; in the abstract, but whether the target surface is black metallic oil spot or amber-black tenmoku/teadust.</p>"
+    },
+    {
+      "plan_id": "2026-03-cone-6-reduction-red-matrix",
+      "slug": "2026-03-cone-6-reduction-red-matrix",
+      "title": "Cone 6 Reduction-Red Comparison Matrix",
+      "cone": "6",
+      "status": "planned",
+      "clay_bodies": [
+        "white cone 6 stoneware",
+        "buff cone 6 stoneware"
+      ],
+      "candidate_ids": [
+        "coyote-oxblood",
+        "amaco-pc-70-copper-red",
+        "6:ketchup-red",
+        "6:tomato-red-base"
+      ],
+      "comparison_axes": [
+        "coat count",
+        "clay body color",
+        "smooth vs lightly textured surface",
+        "normal cool vs slow cool",
+        "commercial brush-on vs DIY mixed glaze"
+      ],
+      "firing_variants": [
+        "natural cooling",
+        "slow cooling",
+        "thin-medium-thick application",
+        "edge break test on ribbed tile"
+      ],
+      "success_criteria": [
+        "convincing reduction-red depth",
+        "clean edge transition",
+        "no muddy brown collapse",
+        "limited pinholing",
+        "repeatable result across both clay bodies"
+      ],
+      "markdown_path": "records/test_plans/2026-03-cone-6-reduction-red-matrix.md",
+      "body_markdown": "# Objective\n\nCompare the strongest current cone 6 reduction-red candidates in one compact matrix so the archive can separate:\n\n- copper-red commercial effects\n- iron-red DIY effects\n- surfaces that read genuinely reduction-like from surfaces that only read red\n\n## Candidate Set\n\n- Coyote Oxblood\n- AMACO PC-70 Copper Red\n- Ketchup Red\n- Tomato Red Base\n\n## Tile Structure\n\nFor each candidate:\n\n1. White stoneware, smooth tile\n2. White stoneware, lightly ribbed tile\n3. Buff stoneware, smooth tile\n4. Buff stoneware, lightly ribbed tile\n\nApplication structure:\n\n- commercial glazes: thin, medium, thick\n- DIY glazes: standard, heavy, very heavy\n\n## Priority Experiments\n\n### Priority A\n\n- Coyote Oxblood at thick application on white and buff bodies\n- PC-70 Copper Red at the manufacturer's three-coat target on white and buff bodies\n- Tomato Red Base at standard and heavy application on white and buff bodies\n\n### Priority B\n\n- Ketchup Red on the same tile set as Tomato Red Base\n- slow-cool branch for the two DIY reds\n- edge-break comparison on ribbed tiles for all four candidates\n\n## What To Record\n\n- exact clay body\n- exact coat count or wet application weight\n- whether the result reads red, oxblood, brick, brown, or muddy\n- edge color where the glaze thins\n- pinholes, crawling, or blistering\n- whether slow cooling improved or dulled the surface\n\n## Expected Outcomes\n\nThe likely strongest commercial reduction-red surface is Coyote Oxblood, with PC-70 close behind.\n\nThe likely strongest DIY reduction-red analog is Tomato Red Base.\n\nKetchup Red is the control worth keeping because a simpler matte red may still read more mineral and atmospheric than a glossier, more engineered surface.",
+      "body_html": "<h1>Objective</h1>\n<p>Compare the strongest current cone 6 reduction-red candidates in one compact matrix so the archive can separate:</p>\n<ul><li>copper-red commercial effects</li><li>iron-red DIY effects</li><li>surfaces that read genuinely reduction-like from surfaces that only read red</li></ul>\n<h2>Candidate Set</h2>\n<ul><li>Coyote Oxblood</li><li>AMACO PC-70 Copper Red</li><li>Ketchup Red</li><li>Tomato Red Base</li></ul>\n<h2>Tile Structure</h2>\n<p>For each candidate:</p>\n<ol><li>White stoneware, smooth tile</li><li>White stoneware, lightly ribbed tile</li><li>Buff stoneware, smooth tile</li><li>Buff stoneware, lightly ribbed tile</li></ol>\n<p>Application structure:</p>\n<ul><li>commercial glazes: thin, medium, thick</li><li>DIY glazes: standard, heavy, very heavy</li></ul>\n<h2>Priority Experiments</h2>\n<h3>Priority A</h3>\n<ul><li>Coyote Oxblood at thick application on white and buff bodies</li><li>PC-70 Copper Red at the manufacturer&#x27;s three-coat target on white and buff bodies</li><li>Tomato Red Base at standard and heavy application on white and buff bodies</li></ul>\n<h3>Priority B</h3>\n<ul><li>Ketchup Red on the same tile set as Tomato Red Base</li><li>slow-cool branch for the two DIY reds</li><li>edge-break comparison on ribbed tiles for all four candidates</li></ul>\n<h2>What To Record</h2>\n<ul><li>exact clay body</li><li>exact coat count or wet application weight</li><li>whether the result reads red, oxblood, brick, brown, or muddy</li><li>edge color where the glaze thins</li><li>pinholes, crawling, or blistering</li><li>whether slow cooling improved or dulled the surface</li></ul>\n<h2>Expected Outcomes</h2>\n<p>The likely strongest commercial reduction-red surface is Coyote Oxblood, with PC-70 close behind.</p>\n<p>The likely strongest DIY reduction-red analog is Tomato Red Base.</p>\n<p>Ketchup Red is the control worth keeping because a simpler matte red may still read more mineral and atmospheric than a glossier, more engineered surface.</p>"
+    },
+    {
+      "plan_id": "2026-03-cone-6-shino-matrix",
+      "slug": "2026-03-cone-6-shino-matrix",
+      "title": "Cone 6 Shino Comparison Matrix",
+      "cone": "6",
+      "status": "planned",
+      "clay_bodies": [
+        "white cone 6 stoneware",
+        "iron-bearing cone 6 stoneware"
+      ],
+      "candidate_ids": [
+        "coyote-shino",
+        "amaco-shino",
+        "6:visual-arts-center-shino"
+      ],
+      "comparison_axes": [
+        "clay body iron content",
+        "coat count or dip count",
+        "smooth vs textured surface",
+        "base shino vs iron-enriched branch",
+        "fast electric vs standard electric cycle"
+      ],
+      "firing_variants": [
+        "single dip",
+        "double dip",
+        "triple dip for failure threshold",
+        "4% red-iron-oxide sprayed branch",
+        "fast electric cycle"
+      ],
+      "success_criteria": [
+        "controlled crawling",
+        "convincing shino break",
+        "white-to-orange or brown-to-cream variation",
+        "no unusable peeling",
+        "clear difference between white and iron-bearing clay"
+      ],
+      "markdown_path": "records/test_plans/2026-03-cone-6-shino-matrix.md",
+      "body_markdown": "# Objective\n\nBuild a direct shino comparison between the strongest commercial cone 6 shino options and the strongest DIY electric shino recipe already in the archive.\n\n## Candidate Set\n\n- Coyote Shino\n- AMACO Shino\n- Visual Arts Center Shino\n\n## Tile Structure\n\nFor each candidate:\n\n1. White stoneware, smooth tile\n2. White stoneware, textured tile\n3. Iron-bearing stoneware, smooth tile\n4. Iron-bearing stoneware, textured tile\n\nApplication structure:\n\n- commercial shinos: 1, 2, and 3 coats when relevant\n- Visual Arts Center Shino: one dip, two dips, and a deliberate heavy/triple-dip failure threshold\n\n## Priority Experiments\n\n### Priority A\n\n- Visual Arts Center Shino at one and two dips on both bodies\n- Visual Arts Center Shino with the 4% red-iron-oxide sprayed branch\n- Coyote Shino on textured white and iron-bearing clay\n\n### Priority B\n\n- AMACO Shino on the same tile set\n- fast-cycle comparison for Visual Arts Center Shino\n- direct comparison of controlled crawling versus commercial stability\n\n## What To Record\n\n- exact clay body and iron content\n- dip count or brush-coat count\n- crawling severity\n- where the glaze stays white, goes orange, or breaks brown\n- whether texture helps or hurts the shino read\n- whether the surface reads more reduction-shino, commercial shino, or simply brown breaking glaze\n\n## Expected Outcomes\n\nVisual Arts Center Shino is likely to win on authentic electric shino behavior.\n\nCoyote Shino is likely to win on usability and repeatability.\n\nAMACO Shino is likely to sit between those two poles and may prove strongest when layering or broader color variation matter more than crawling.",
+      "body_html": "<h1>Objective</h1>\n<p>Build a direct shino comparison between the strongest commercial cone 6 shino options and the strongest DIY electric shino recipe already in the archive.</p>\n<h2>Candidate Set</h2>\n<ul><li>Coyote Shino</li><li>AMACO Shino</li><li>Visual Arts Center Shino</li></ul>\n<h2>Tile Structure</h2>\n<p>For each candidate:</p>\n<ol><li>White stoneware, smooth tile</li><li>White stoneware, textured tile</li><li>Iron-bearing stoneware, smooth tile</li><li>Iron-bearing stoneware, textured tile</li></ol>\n<p>Application structure:</p>\n<ul><li>commercial shinos: 1, 2, and 3 coats when relevant</li><li>Visual Arts Center Shino: one dip, two dips, and a deliberate heavy/triple-dip failure threshold</li></ul>\n<h2>Priority Experiments</h2>\n<h3>Priority A</h3>\n<ul><li>Visual Arts Center Shino at one and two dips on both bodies</li><li>Visual Arts Center Shino with the 4% red-iron-oxide sprayed branch</li><li>Coyote Shino on textured white and iron-bearing clay</li></ul>\n<h3>Priority B</h3>\n<ul><li>AMACO Shino on the same tile set</li><li>fast-cycle comparison for Visual Arts Center Shino</li><li>direct comparison of controlled crawling versus commercial stability</li></ul>\n<h2>What To Record</h2>\n<ul><li>exact clay body and iron content</li><li>dip count or brush-coat count</li><li>crawling severity</li><li>where the glaze stays white, goes orange, or breaks brown</li><li>whether texture helps or hurts the shino read</li><li>whether the surface reads more reduction-shino, commercial shino, or simply brown breaking glaze</li></ul>\n<h2>Expected Outcomes</h2>\n<p>Visual Arts Center Shino is likely to win on authentic electric shino behavior.</p>\n<p>Coyote Shino is likely to win on usability and repeatability.</p>\n<p>AMACO Shino is likely to sit between those two poles and may prove strongest when layering or broader color variation matter more than crawling.</p>"
+    },
+    {
+      "plan_id": "2026-03-cone-6-woodfire-look-matrix",
+      "slug": "2026-03-cone-6-woodfire-look-matrix",
+      "title": "Cone 6 Woodfire-Look Comparison Matrix",
+      "cone": "6",
+      "status": "planned",
+      "clay_bodies": [
+        "white cone 6 stoneware",
+        "buff cone 6 stoneware"
+      ],
+      "candidate_ids": [
+        "6:flashing-wood-ash",
+        "6:hannahs-fake-ash",
+        "6:frasca-ash",
+        "6:ashleighs-rivulet",
+        "6:vc-matte",
+        "amaco-shino",
+        "mayco-maycoshino",
+        "mayco-micro-ash",
+        "coyote-archies-base"
+      ],
+      "comparison_axes": [
+        "coat count",
+        "clay body color",
+        "natural cool vs slow cool",
+        "smooth vs textured surface",
+        "single glaze vs layered stack"
+      ],
+      "firing_variants": [
+        "natural cooling",
+        "slow cooling",
+        "directional spray application",
+        "layered application over matte base"
+      ],
+      "success_criteria": [
+        "visible movement",
+        "ash-like pooling or streaking",
+        "texture break",
+        "no unacceptable runoff",
+        "strong contrast on white and buff bodies"
+      ],
+      "markdown_path": "records/test_plans/2026-03-cone-6-woodfire-look-matrix.md",
+      "body_markdown": "# Objective\n\nBuild a compact cone 6 matrix that compares the most promising DIY and commercial candidates for wood-fire-looking electric surfaces.\n\n## DIY Set\n\n- Flashing Wood Ash\n- V.C. Matte under Hannahs Fake Ash\n- Green Dragon-style matte base logic approximated through the Hall-Hough stack:\n  Ashleighs Rivulet plus Frasca Ash over a matte base\n\n## Commercial Set\n\n- AMACO Shino\n- Mayco SW-122 Maycoshino\n- Mayco SW218 Micro Ash\n- Coyote Archies Base\n\n## Tile Structure\n\nFor each candidate or stack:\n\n1. White stoneware, smooth surface\n2. White stoneware, textured surface\n3. Buff stoneware, smooth surface\n4. Buff stoneware, textured surface\n\nFor thickness:\n\n- commercial brush-on glazes: 1, 2, and 3 coats when relevant\n- DIY glazes: normal, heavy, and layered application\n\n## Priority Experiments\n\n### Priority A\n\n- Flashing Wood Ash, directional spray, white and buff clay\n- Maycoshino, 1/2/3 coats on white and buff clay\n- Micro Ash, 2/3 coats on textured white and buff clay\n\n### Priority B\n\n- V.C. Matte plus Hannahs Fake Ash\n- Matte base plus Ashleighs Rivulet and Frasca Ash\n- Archies Base over a dark underlayer or stronger color field\n\n## What To Record\n\n- exact clay body\n- exact coat count or spray weight\n- cooling profile\n- whether shells or wadding were used\n- runoff severity\n- texture break quality\n- whether the result reads more like ash, shino, reduction, or layered commercial glaze\n\n## Expected Outcomes\n\nThe likely winners are:\n\n- Flashing Wood Ash for the most literal wood-fire mimicry\n- Hall-Hough layered stack for convincing ash-run surfaces\n- Maycoshino for the easiest commercial shino-adjacent surface\n- Micro Ash for the richest modern ash/crystalline commercial surface\n- Archies Base for slow-cool-sensitive commercial interaction",
+      "body_html": "<h1>Objective</h1>\n<p>Build a compact cone 6 matrix that compares the most promising DIY and commercial candidates for wood-fire-looking electric surfaces.</p>\n<h2>DIY Set</h2>\n<p>Ashleighs Rivulet plus Frasca Ash over a matte base</p>\n<ul><li>Flashing Wood Ash</li><li>V.C. Matte under Hannahs Fake Ash</li><li>Green Dragon-style matte base logic approximated through the Hall-Hough stack:</li></ul>\n<h2>Commercial Set</h2>\n<ul><li>AMACO Shino</li><li>Mayco SW-122 Maycoshino</li><li>Mayco SW218 Micro Ash</li><li>Coyote Archies Base</li></ul>\n<h2>Tile Structure</h2>\n<p>For each candidate or stack:</p>\n<ol><li>White stoneware, smooth surface</li><li>White stoneware, textured surface</li><li>Buff stoneware, smooth surface</li><li>Buff stoneware, textured surface</li></ol>\n<p>For thickness:</p>\n<ul><li>commercial brush-on glazes: 1, 2, and 3 coats when relevant</li><li>DIY glazes: normal, heavy, and layered application</li></ul>\n<h2>Priority Experiments</h2>\n<h3>Priority A</h3>\n<ul><li>Flashing Wood Ash, directional spray, white and buff clay</li><li>Maycoshino, 1/2/3 coats on white and buff clay</li><li>Micro Ash, 2/3 coats on textured white and buff clay</li></ul>\n<h3>Priority B</h3>\n<ul><li>V.C. Matte plus Hannahs Fake Ash</li><li>Matte base plus Ashleighs Rivulet and Frasca Ash</li><li>Archies Base over a dark underlayer or stronger color field</li></ul>\n<h2>What To Record</h2>\n<ul><li>exact clay body</li><li>exact coat count or spray weight</li><li>cooling profile</li><li>whether shells or wadding were used</li><li>runoff severity</li><li>texture break quality</li><li>whether the result reads more like ash, shino, reduction, or layered commercial glaze</li></ul>\n<h2>Expected Outcomes</h2>\n<p>The likely winners are:</p>\n<ul><li>Flashing Wood Ash for the most literal wood-fire mimicry</li><li>Hall-Hough layered stack for convincing ash-run surfaces</li><li>Maycoshino for the easiest commercial shino-adjacent surface</li><li>Micro Ash for the richest modern ash/crystalline commercial surface</li><li>Archies Base for slow-cool-sensitive commercial interaction</li></ul>"
+    }
+  ],
+  "test_runs": [],
+  "reports": [
+    {
+      "report_id": "2026-03-17-z-reduction-glazes-commercial-and-diy",
+      "slug": "2026-03-17-z-reduction-glazes-commercial-and-diy",
+      "title": "Reduction-Look Glazes: Commercial and DIY Hunt",
+      "report_date": "2026-03-17",
+      "summary": "Added a reduction-focused batch of commercial products and DIY cone 6 recipes spanning copper red, shino, iron red, tenmoku, and oil-spot looks.",
+      "tags": [
+        "research",
+        "reduction-look",
+        "electric",
+        "commercial",
+        "diy"
+      ],
+      "markdown_path": "reports/md/2026-03-17-z-reduction-glazes-commercial-and-diy.md",
+      "html_path": "reports/html/2026-03-17-z-reduction-glazes-commercial-and-diy.html",
+      "body_markdown": "# Overview\n\nThis pass focused on the reduction side of faux-atmospheric electric glazing rather than the wood-ash side.\n\nThe batch breaks into four clear visual families:\n\n1. Copper reds and oxbloods\n2. Electric shinos\n3. Iron reds\n4. Dark tenmoku and oil-spot surfaces\n\n## Strong Commercial Finds\n\n### Copper red lane\n\n- `Coyote Oxblood` is the most literal commercial faux-reduction red in this pass because the manufacturer says it creates local reduction in an electric kiln.\n- `AMACO PC-70 Copper Red` is the most explicit oxidation-to-reduction bridge in the major-brand brush-on space because AMACO says it gives the same results in oxidation as a traditional reduction copper glaze.\n\n### Shino lane\n\n- `Coyote Shino` is a strong practical commercial shino because it is positioned as giving a gas-fired look in any kiln, while also being stable and not runny.\n- This makes it a useful commercial counterpart to more chemistry-driven DIY electric shino work.\n\n### Dark reduction lane\n\n- `Mayco SW-111 Wrought Iron` covers the oil-spot side of reduction aesthetics unusually well for cone 6 oxidation.\n- Its importance is not just color. It promises a dappled gloss-matte black surface with only two coats, which makes it one of the quickest commercial routes into dark reduction-like surfaces.\n\n## Strong DIY Finds\n\n### Electric shino system\n\n- `Visual Arts Center Shino` is the strongest DIY shino result in this hunt because it was explicitly designed for cone 6 electric firing.\n- The key insight is that the recipe is a base system. Thickness and optional iron additions are what shift it from white crawling shino toward orange flashing shino.\n\n### Iron red lane\n\n- `Tomato Red Base` is the more engineered red and should be tested when the goal is a richer glossy-satin reduction-red analog.\n- `Ketchup Red` is the simpler matte iron-red baseline and belongs in the same test series because it may deliver a more mineral, less polished result.\n\n### Tenmoku lane\n\n- `Tenmoku Gold` gives the archive a reduction-look path that depends on cooling rather than just chemistry or coat count.\n- It is especially valuable because it shifts the conversation away from reds and shinos into amber-black teadust territory.\n\n## Main Synthesis\n\nCommercial reduction-look glazes are strongest when:\n\n- the target look is narrow and recognizable, like oxblood, shino, or oil spot\n- the user wants fast coat-count comparisons\n- the process needs to stay simple and repeatable\n\nDIY reduction-look recipes are strongest when:\n\n- surface language depends on more than one lever\n- layering, spraying, or optional additions are part of the look\n- the user wants to tune a family of effects rather than buy a fixed result\n\n## Best Next Test Grid\n\n- Coyote Oxblood vs AMACO PC-70 Copper Red at thin, medium, and thick application\n- Visual Arts Center Shino base vs the 4% red-iron-oxide variant on both smooth and textured clay\n- Ketchup Red vs Tomato Red Base on the same iron-bearing and buff stoneware bodies\n- Tenmoku Gold slow cool vs normal cool\n- Mayco Wrought Iron on smooth, carved, and speckled clay bodies\n\n## Risks To Watch\n\n- Commercial copper reds still depend heavily on thickness, so \u201ceasy\u201d does not mean foolproof.\n- Electric shino success depends on controlled crawling rather than only color.\n- Dark reduction-like surfaces may depend on cooling cycles as much as on recipe choice.\n- Several of the strongest faux-reduction surfaces in this batch can become less convincing if applied too evenly.",
+      "body_html": "<h1>Overview</h1>\n<p>This pass focused on the reduction side of faux-atmospheric electric glazing rather than the wood-ash side.</p>\n<p>The batch breaks into four clear visual families:</p>\n<ol><li>Copper reds and oxbloods</li><li>Electric shinos</li><li>Iron reds</li><li>Dark tenmoku and oil-spot surfaces</li></ol>\n<h2>Strong Commercial Finds</h2>\n<h3>Copper red lane</h3>\n<ul><li><code>Coyote Oxblood</code> is the most literal commercial faux-reduction red in this pass because the manufacturer says it creates local reduction in an electric kiln.</li><li><code>AMACO PC-70 Copper Red</code> is the most explicit oxidation-to-reduction bridge in the major-brand brush-on space because AMACO says it gives the same results in oxidation as a traditional reduction copper glaze.</li></ul>\n<h3>Shino lane</h3>\n<ul><li><code>Coyote Shino</code> is a strong practical commercial shino because it is positioned as giving a gas-fired look in any kiln, while also being stable and not runny.</li><li>This makes it a useful commercial counterpart to more chemistry-driven DIY electric shino work.</li></ul>\n<h3>Dark reduction lane</h3>\n<ul><li><code>Mayco SW-111 Wrought Iron</code> covers the oil-spot side of reduction aesthetics unusually well for cone 6 oxidation.</li><li>Its importance is not just color. It promises a dappled gloss-matte black surface with only two coats, which makes it one of the quickest commercial routes into dark reduction-like surfaces.</li></ul>\n<h2>Strong DIY Finds</h2>\n<h3>Electric shino system</h3>\n<ul><li><code>Visual Arts Center Shino</code> is the strongest DIY shino result in this hunt because it was explicitly designed for cone 6 electric firing.</li><li>The key insight is that the recipe is a base system. Thickness and optional iron additions are what shift it from white crawling shino toward orange flashing shino.</li></ul>\n<h3>Iron red lane</h3>\n<ul><li><code>Tomato Red Base</code> is the more engineered red and should be tested when the goal is a richer glossy-satin reduction-red analog.</li><li><code>Ketchup Red</code> is the simpler matte iron-red baseline and belongs in the same test series because it may deliver a more mineral, less polished result.</li></ul>\n<h3>Tenmoku lane</h3>\n<ul><li><code>Tenmoku Gold</code> gives the archive a reduction-look path that depends on cooling rather than just chemistry or coat count.</li><li>It is especially valuable because it shifts the conversation away from reds and shinos into amber-black teadust territory.</li></ul>\n<h2>Main Synthesis</h2>\n<p>Commercial reduction-look glazes are strongest when:</p>\n<ul><li>the target look is narrow and recognizable, like oxblood, shino, or oil spot</li><li>the user wants fast coat-count comparisons</li><li>the process needs to stay simple and repeatable</li></ul>\n<p>DIY reduction-look recipes are strongest when:</p>\n<ul><li>surface language depends on more than one lever</li><li>layering, spraying, or optional additions are part of the look</li><li>the user wants to tune a family of effects rather than buy a fixed result</li></ul>\n<h2>Best Next Test Grid</h2>\n<ul><li>Coyote Oxblood vs AMACO PC-70 Copper Red at thin, medium, and thick application</li><li>Visual Arts Center Shino base vs the 4% red-iron-oxide variant on both smooth and textured clay</li><li>Ketchup Red vs Tomato Red Base on the same iron-bearing and buff stoneware bodies</li><li>Tenmoku Gold slow cool vs normal cool</li><li>Mayco Wrought Iron on smooth, carved, and speckled clay bodies</li></ul>\n<h2>Risks To Watch</h2>\n<ul><li>Commercial copper reds still depend heavily on thickness, so \u201ceasy\u201d does not mean foolproof.</li><li>Electric shino success depends on controlled crawling rather than only color.</li><li>Dark reduction-like surfaces may depend on cooling cycles as much as on recipe choice.</li><li>Several of the strongest faux-reduction surfaces in this batch can become less convincing if applied too evenly.</li></ul>"
+    },
+    {
+      "report_id": "2026-03-17-wood-fire-looking-electric-glazes",
+      "slug": "2026-03-17-wood-fire-looking-electric-glazes",
+      "title": "Wood-Fire-Looking Electric Glazes: First Hunt",
+      "report_date": "2026-03-17",
+      "summary": "Logged the first DIY and commercial candidates for wood-fire-like electric surfaces, with recipes, product records, images, and process notes.",
+      "tags": [
+        "research",
+        "wood-fire-look",
+        "electric",
+        "commercial",
+        "diy"
+      ],
+      "markdown_path": "reports/md/2026-03-17-wood-fire-looking-electric-glazes.md",
+      "html_path": "reports/html/2026-03-17-wood-fire-looking-electric-glazes.html",
+      "body_markdown": "# Overview\n\nThis first hunt split the space into two tracks:\n\n1. DIY formulas and body additives that can be mixed and tuned.\n2. Commercial glaze lines and products that already push toward ash, shino, reduction, or slow-cool interaction effects in an electric kiln.\n\n## Strong DIY Directions\n\n### Directional ash and flashing\n\nRyan Coppage's electric wood-ash approach is important because it is not just a recipe. It is a process system:\n\n- spray the glaze directionally\n- mount ware on shells and wadding\n- let the setup create blocked paths, shell flashes, and runoff cues that read like side-firing\n\nThis is likely the most direct electric route toward wood-kiln body language.\n\n### Overlay stacks that mimic ash movement\n\nThe Hall-Hough cluster is valuable because it behaves like a stack:\n\n- `V.C. Matte` as the quiet base\n- `Hannahs Fake Ash` as a dry, mineral fake-ash overlay\n- `Ashleighs Rivulet` as the streaking layer\n- `Frasca Ash` as the actual wood-ash-heavy moving glaze\n\nThe project should treat this as a family rather than isolated recipes.\n\n### Body engineering matters too\n\n`Colored Shigaraki` is a reminder that electric wood-fire emulation is not only about glaze chemistry. Feldspathic chips wedged into the body can change the read of the whole piece before glaze is even considered.\n\n## Strong Commercial Directions\n\n### Best broad commercial families\n\n- `AMACO Potters Choice` is explicit about reduction looks in oxidation and gives a wide layering matrix.\n- `AMACO Shino` is the clearest official commercial reduction-look-in-oxidation line in this first pass.\n- `Mayco SW-122 Maycoshino` is a strong thickness-responsive iron/shino commercial option.\n- `Mayco SW218 Micro Ash` looks promising for a more contemporary ash/crystalline charcoal surface.\n- `Coyote Archies Base` is valuable as a slow-cool-sensitive interaction glaze rather than a standalone finish.\n\n### Commercial vs DIY takeaway\n\nCommercial glazes appear strongest when:\n\n- the goal is fast testing across many surfaces\n- layering behavior matters more than raw chemistry ownership\n- the user wants to compare multiple atmospheric looks quickly\n\nDIY formulas remain strongest when:\n\n- the goal is to emulate actual ash chemistry or directional deposition\n- the user wants to tune clay-body response and flux balance\n- process theatrics like shells, wadding, drift, and controlled runoff are central\n\n## Best Next Test Grid\n\n- Flashing Wood Ash on a light cone 6 stoneware, sprayed from one direction\n- V.C. Matte under Hannahs Fake Ash\n- Green Dragon Matte under Frasca Ash and Ashleighs Rivulet\n- Maycoshino at one, two, and three coats\n- Micro Ash at two and three coats on texture\n- Archies Base layered over darker underglazes or high-contrast base colors\n\n## Risks To Watch\n\n- Nearly every promising faux-ash option in this first pass can run.\n- Ash chemistry is variable and should not be assumed stable across batches.\n- Slow cooling is likely a major lever for commercial interaction glazes.\n- A lot of the visual success comes from application choreography, not chemistry alone.",
+      "body_html": "<h1>Overview</h1>\n<p>This first hunt split the space into two tracks:</p>\n<ol><li>DIY formulas and body additives that can be mixed and tuned.</li><li>Commercial glaze lines and products that already push toward ash, shino, reduction, or slow-cool interaction effects in an electric kiln.</li></ol>\n<h2>Strong DIY Directions</h2>\n<h3>Directional ash and flashing</h3>\n<p>Ryan Coppage&#x27;s electric wood-ash approach is important because it is not just a recipe. It is a process system:</p>\n<ul><li>spray the glaze directionally</li><li>mount ware on shells and wadding</li><li>let the setup create blocked paths, shell flashes, and runoff cues that read like side-firing</li></ul>\n<p>This is likely the most direct electric route toward wood-kiln body language.</p>\n<h3>Overlay stacks that mimic ash movement</h3>\n<p>The Hall-Hough cluster is valuable because it behaves like a stack:</p>\n<ul><li><code>V.C. Matte</code> as the quiet base</li><li><code>Hannahs Fake Ash</code> as a dry, mineral fake-ash overlay</li><li><code>Ashleighs Rivulet</code> as the streaking layer</li><li><code>Frasca Ash</code> as the actual wood-ash-heavy moving glaze</li></ul>\n<p>The project should treat this as a family rather than isolated recipes.</p>\n<h3>Body engineering matters too</h3>\n<p><code>Colored Shigaraki</code> is a reminder that electric wood-fire emulation is not only about glaze chemistry. Feldspathic chips wedged into the body can change the read of the whole piece before glaze is even considered.</p>\n<h2>Strong Commercial Directions</h2>\n<h3>Best broad commercial families</h3>\n<ul><li><code>AMACO Potters Choice</code> is explicit about reduction looks in oxidation and gives a wide layering matrix.</li><li><code>AMACO Shino</code> is the clearest official commercial reduction-look-in-oxidation line in this first pass.</li><li><code>Mayco SW-122 Maycoshino</code> is a strong thickness-responsive iron/shino commercial option.</li><li><code>Mayco SW218 Micro Ash</code> looks promising for a more contemporary ash/crystalline charcoal surface.</li><li><code>Coyote Archies Base</code> is valuable as a slow-cool-sensitive interaction glaze rather than a standalone finish.</li></ul>\n<h3>Commercial vs DIY takeaway</h3>\n<p>Commercial glazes appear strongest when:</p>\n<ul><li>the goal is fast testing across many surfaces</li><li>layering behavior matters more than raw chemistry ownership</li><li>the user wants to compare multiple atmospheric looks quickly</li></ul>\n<p>DIY formulas remain strongest when:</p>\n<ul><li>the goal is to emulate actual ash chemistry or directional deposition</li><li>the user wants to tune clay-body response and flux balance</li><li>process theatrics like shells, wadding, drift, and controlled runoff are central</li></ul>\n<h2>Best Next Test Grid</h2>\n<ul><li>Flashing Wood Ash on a light cone 6 stoneware, sprayed from one direction</li><li>V.C. Matte under Hannahs Fake Ash</li><li>Green Dragon Matte under Frasca Ash and Ashleighs Rivulet</li><li>Maycoshino at one, two, and three coats</li><li>Micro Ash at two and three coats on texture</li><li>Archies Base layered over darker underglazes or high-contrast base colors</li></ul>\n<h2>Risks To Watch</h2>\n<ul><li>Nearly every promising faux-ash option in this first pass can run.</li><li>Ash chemistry is variable and should not be assumed stable across batches.</li><li>Slow cooling is likely a major lever for commercial interaction glazes.</li><li>A lot of the visual success comes from application choreography, not chemistry alone.</li></ul>"
+    },
+    {
+      "report_id": "2026-03-17-salt-glaze-looking-electric-glazes",
+      "slug": "2026-03-17-salt-glaze-looking-electric-glazes",
+      "title": "Salt-Glaze-Looking Electric Glazes: First Hunt",
+      "report_date": "2026-03-17",
+      "summary": "Mapped the first salt-glaze-effect research pass into electric-friendly DIY sodium treatments and commercial salt-track products.",
+      "tags": [
+        "research",
+        "salt-glaze-look",
+        "electric",
+        "commercial",
+        "diy"
+      ],
+      "markdown_path": "reports/md/2026-03-17-salt-glaze-looking-electric-glazes.md",
+      "html_path": "reports/html/2026-03-17-salt-glaze-looking-electric-glazes.html",
+      "body_markdown": "# Overview\n\nThis hunt split quickly into two very different categories:\n\n1. DIY systems that push sodium to the surface through soda ash, soda spray, or soda-heavy shino chemistry.\n2. Commercial products that sell a salt or soda-adjacent visual language without reproducing actual vapor glazing.\n\nThe main lesson is that electric faux salt work is less about copying historical salt exactly and more about deciding where the sodium event happens:\n\n- inside the glaze recipe\n- on top of the glaze surface\n- or only as a visual metaphor in a commercial product\n\n## Strong DIY Directions\n\n### Bates Clear plus soda ash is a surface-event recipe\n\n`Bates Clear With Soda Ash Sprinkle` matters because it puts the sodium after glazing rather than only in the bucket.\n\n- The base glaze is stable enough to function as a carrier.\n- The sprinkled soda ash creates localized runs and disruption.\n- This is one of the cleaner routes toward selective salt/soda drama in a cone 6 oxidation workflow.\n\n### Visual Arts Center Shino is the chemistry-heavy route\n\n`Visual Arts Center Shino` is the strongest actual recipe lead in this pass.\n\n- It already contains 9.09% soda ash.\n- The article explicitly frames soda ash as the driver for soda-salt crystals and related surface effects.\n- The electric cone 6 examples use crawling and an iron-sprayed overlay to emulate more atmospheric shino behavior.\n\nThis is likely the most defensible DIY bridge between electric oxidation and salt/soda-adjacent surface language.\n\n### Soda spray belongs in the same family\n\nMinori Thorpe's `Soda Spray (Oxidation)` post is not a full glaze recipe, but it is an important process source.\n\n- Equal weights of soda ash and baking soda are sprayed onto glazed ware before cone 6 electric firing.\n- The before-and-after images show the sodium treatment doing real visual work.\n- It suggests that some salt-look testing should happen as glaze-plus-surface-treatment, not only as glaze formulation.\n\n## Strong Commercial Directions\n\n### Best immediate cone 6 commercial candidates\n\n- `Mayco SW-118 Sea Salt` gives the clearest textured accretion read through sage-green crystal blooms and a foamy matte surface.\n- `Mayco SW-187 Himalayan Salt` gives the warmer branch: pink and burnt-orange mottling, clear pooling, and a more flashed soda/salt palette.\n\nThese are not literal salt-glaze substitutes, but they are current, official, and easy to compare against the DIY sodium tests.\n\n### Laguna is real but under-described\n\n`Laguna WC-559 Artificial Salt` is valuable mainly because it verifies that an explicitly named artificial-salt product is still live in an official catalog.\n\n- The current official page confirms the product and SKU.\n- It does not currently give enough descriptive copy to rank it against the Mayco options.\n- It probably belongs in a cone 10 branch unless the project intentionally widens beyond its present cone 6 center of gravity.\n\n## Best Next Test Grid\n\n- Bates Clear with two soda-ash loads: sparse sprinkle and aggressive sprinkle\n- Visual Arts Center Shino at one dip and two dips\n- Visual Arts Center Shino plus the sprayed iron branch\n- A neutral base glaze with Minori-style soda spray\n- Sea Salt straight and over Alabaster\n- Himalayan Salt on texture and on smoother forms\n\n## Risks To Watch\n\n- Sodium-on-surface methods can move fast from atmospheric to simply runny.\n- Controlled crawling reads rich; over-crawling reads like glaze failure.\n- Commercial salt-named products often evoke salt or soda visually without giving the orange-peel logic of true vapor glazing.\n- The strongest electric salt-look path may be layered process choreography rather than any single magic glaze.",
+      "body_html": "<h1>Overview</h1>\n<p>This hunt split quickly into two very different categories:</p>\n<ol><li>DIY systems that push sodium to the surface through soda ash, soda spray, or soda-heavy shino chemistry.</li><li>Commercial products that sell a salt or soda-adjacent visual language without reproducing actual vapor glazing.</li></ol>\n<p>The main lesson is that electric faux salt work is less about copying historical salt exactly and more about deciding where the sodium event happens:</p>\n<ul><li>inside the glaze recipe</li><li>on top of the glaze surface</li><li>or only as a visual metaphor in a commercial product</li></ul>\n<h2>Strong DIY Directions</h2>\n<h3>Bates Clear plus soda ash is a surface-event recipe</h3>\n<p><code>Bates Clear With Soda Ash Sprinkle</code> matters because it puts the sodium after glazing rather than only in the bucket.</p>\n<ul><li>The base glaze is stable enough to function as a carrier.</li><li>The sprinkled soda ash creates localized runs and disruption.</li><li>This is one of the cleaner routes toward selective salt/soda drama in a cone 6 oxidation workflow.</li></ul>\n<h3>Visual Arts Center Shino is the chemistry-heavy route</h3>\n<p><code>Visual Arts Center Shino</code> is the strongest actual recipe lead in this pass.</p>\n<ul><li>It already contains 9.09% soda ash.</li><li>The article explicitly frames soda ash as the driver for soda-salt crystals and related surface effects.</li><li>The electric cone 6 examples use crawling and an iron-sprayed overlay to emulate more atmospheric shino behavior.</li></ul>\n<p>This is likely the most defensible DIY bridge between electric oxidation and salt/soda-adjacent surface language.</p>\n<h3>Soda spray belongs in the same family</h3>\n<p>Minori Thorpe&#x27;s <code>Soda Spray (Oxidation)</code> post is not a full glaze recipe, but it is an important process source.</p>\n<ul><li>Equal weights of soda ash and baking soda are sprayed onto glazed ware before cone 6 electric firing.</li><li>The before-and-after images show the sodium treatment doing real visual work.</li><li>It suggests that some salt-look testing should happen as glaze-plus-surface-treatment, not only as glaze formulation.</li></ul>\n<h2>Strong Commercial Directions</h2>\n<h3>Best immediate cone 6 commercial candidates</h3>\n<ul><li><code>Mayco SW-118 Sea Salt</code> gives the clearest textured accretion read through sage-green crystal blooms and a foamy matte surface.</li><li><code>Mayco SW-187 Himalayan Salt</code> gives the warmer branch: pink and burnt-orange mottling, clear pooling, and a more flashed soda/salt palette.</li></ul>\n<p>These are not literal salt-glaze substitutes, but they are current, official, and easy to compare against the DIY sodium tests.</p>\n<h3>Laguna is real but under-described</h3>\n<p><code>Laguna WC-559 Artificial Salt</code> is valuable mainly because it verifies that an explicitly named artificial-salt product is still live in an official catalog.</p>\n<ul><li>The current official page confirms the product and SKU.</li><li>It does not currently give enough descriptive copy to rank it against the Mayco options.</li><li>It probably belongs in a cone 10 branch unless the project intentionally widens beyond its present cone 6 center of gravity.</li></ul>\n<h2>Best Next Test Grid</h2>\n<ul><li>Bates Clear with two soda-ash loads: sparse sprinkle and aggressive sprinkle</li><li>Visual Arts Center Shino at one dip and two dips</li><li>Visual Arts Center Shino plus the sprayed iron branch</li><li>A neutral base glaze with Minori-style soda spray</li><li>Sea Salt straight and over Alabaster</li><li>Himalayan Salt on texture and on smoother forms</li></ul>\n<h2>Risks To Watch</h2>\n<ul><li>Sodium-on-surface methods can move fast from atmospheric to simply runny.</li><li>Controlled crawling reads rich; over-crawling reads like glaze failure.</li><li>Commercial salt-named products often evoke salt or soda visually without giving the orange-peel logic of true vapor glazing.</li><li>The strongest electric salt-look path may be layered process choreography rather than any single magic glaze.</li></ul>"
+    },
+    {
+      "report_id": "2026-03-17-project-architecture",
+      "slug": "2026-03-17-project-architecture",
+      "title": "Project Architecture Bootstrap",
+      "report_date": "2026-03-17",
+      "summary": "Established the repository architecture for durable glaze research, source tracking, synthesis, and HTML reporting.",
+      "tags": [
+        "architecture",
+        "dashboard",
+        "storage"
+      ],
+      "markdown_path": "reports/md/2026-03-17-project-architecture.md",
+      "html_path": "reports/html/2026-03-17-project-architecture.html",
+      "body_markdown": "# Overview\n\nThis project is being organized as a continuous research system rather than a pile of notes. The goal is to make it easy to add glaze recipes, images, firing details, process observations, and provenance while also making it possible for a new thread or agent to synthesize what already exists.\n\n## Key Decisions\n\n- Markdown with TOML front matter is the canonical store for recipes, sources, actions, and reports.\n- SQLite is generated from those records so the project can query by cone, surface quality, source, and status.\n- Cone remains central in the schema by participating in the recipe primary key.\n- Every report written in markdown gets a generated HTML companion.\n- Every research website visit is tracked in an append-only log plus normalized source records.\n\n## Operating Model\n\nEach research pass should:\n\n1. Log the source.\n2. Capture recipe and image records.\n3. Write or update a report that explains what was learned.\n4. Rebuild the database and dashboard.\n\n## Next Phase\n\nThe next practical step is to ingest a first wave of authoritative and high-signal glaze sources, then start populating cone 6 and cone 10 recipes with image-backed records.",
+      "body_html": "<h1>Overview</h1>\n<p>This project is being organized as a continuous research system rather than a pile of notes. The goal is to make it easy to add glaze recipes, images, firing details, process observations, and provenance while also making it possible for a new thread or agent to synthesize what already exists.</p>\n<h2>Key Decisions</h2>\n<ul><li>Markdown with TOML front matter is the canonical store for recipes, sources, actions, and reports.</li><li>SQLite is generated from those records so the project can query by cone, surface quality, source, and status.</li><li>Cone remains central in the schema by participating in the recipe primary key.</li><li>Every report written in markdown gets a generated HTML companion.</li><li>Every research website visit is tracked in an append-only log plus normalized source records.</li></ul>\n<h2>Operating Model</h2>\n<p>Each research pass should:</p>\n<ol><li>Log the source.</li><li>Capture recipe and image records.</li><li>Write or update a report that explains what was learned.</li><li>Rebuild the database and dashboard.</li></ol>\n<h2>Next Phase</h2>\n<p>The next practical step is to ingest a first wave of authoritative and high-signal glaze sources, then start populating cone 6 and cone 10 recipes with image-backed records.</p>"
+    }
+  ],
+  "source_visits": [
+    {
+      "source_id": "coyote-oxblood",
+      "visited_at": "2026-03-18T06:39:30-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-shino-line",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://shop.amaco.com/glazes-underglazes/high-fire-glazes/sh-shino/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-maycoshino",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.maycocolors.com/product/sw-122-maycoshino/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-micro-ash",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.maycocolors.com/product/sw218-micro-ash/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-sea-salt",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.maycocolors.com/product/sw-118-sea-salt/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-himalayan-salt",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.maycocolors.com/product/sw-187-himalayan-salt/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-wrought-iron",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-archies-base",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/ArchiesBase.html",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-shino",
+      "visited_at": "2026-03-18T06:39:29-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Shino.html",
+      "query": "gallery images",
+      "notes": "Reviewed official gallery/result photos for local image capture and captions.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-visual-arts-shino",
+      "visited_at": "2026-03-18T06:30:57-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+      "query": "work image review",
+      "notes": "Checked article for additional work images.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-project-todd-mug-wrought-iron-oxblood",
+      "visited_at": "2026-03-18T06:30:57-04:00",
+      "url": "https://www.maycocolors.com/projects/todd-mug-with-wrought-iron-and-oxblood/",
+      "query": "work image review",
+      "notes": "Official project image for Wrought Iron on functional ware.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-project-handbuilt-texture-mugs",
+      "visited_at": "2026-03-18T06:30:57-04:00",
+      "url": "https://www.maycocolors.com/projects/handbuilt-texture-mugs/",
+      "query": "work image review",
+      "notes": "Official project image showing Wrought Iron on textured mugs.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-project-cone-6-crackle-vase",
+      "visited_at": "2026-03-18T06:30:57-04:00",
+      "url": "https://www.maycocolors.com/projects/cone-6-crackle-vase/",
+      "query": "work image review",
+      "notes": "Official project image showing Wrought Iron on a cone 6 vase.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-wrought-iron",
+      "visited_at": "2026-03-18T06:30:56-04:00",
+      "url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+      "query": "work image review",
+      "notes": "Reviewed official gallery images for work examples.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-ketchup-red",
+      "visited_at": "2026-03-18T06:30:56-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ketchup-Red-142686",
+      "query": "work image review",
+      "notes": "Checked recipe page for additional work images.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-tomato-red-base",
+      "visited_at": "2026-03-18T06:30:56-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tomato-Red-Base-Tile-6-235212",
+      "query": "work image review",
+      "notes": "Checked recipe page for additional work images.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-tenmoku-gold",
+      "visited_at": "2026-03-18T06:30:56-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tenmoku-Gold-246949",
+      "query": "work image review",
+      "notes": "Checked recipe page for additional work images.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-oxblood",
+      "visited_at": "2026-03-18T06:30:55-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+      "query": "work image review",
+      "notes": "Reviewed official gallery images for work examples.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-shino",
+      "visited_at": "2026-03-18T06:30:55-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Shino.html",
+      "query": "work image review",
+      "notes": "Reviewed official gallery images for work examples.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-pc-70-copper-red",
+      "visited_at": "2026-03-18T06:30:55-04:00",
+      "url": "https://shop.amaco.com/pc-70-copper-red/",
+      "query": "work image review",
+      "notes": "Reviewed official gallery images for work examples.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-ketchup-red",
+      "visited_at": "2026-03-18T06:29:10-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ketchup-Red-142686",
+      "query": "add glaze work pictures",
+      "notes": "Revisited while checking whether more example-work photos were available on the source page.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-visual-arts-shino",
+      "visited_at": "2026-03-18T06:29:09-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+      "query": "add glaze work pictures",
+      "notes": "Revisited to capture additional example-work images for the gallery.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-oxblood",
+      "visited_at": "2026-03-18T06:29:09-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+      "query": "add glaze work pictures",
+      "notes": "Revisited to capture additional work-example photos from the product page gallery.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "laguna-wc-559-artificial-salt",
+      "visited_at": "2026-03-18T06:29:09-04:00",
+      "url": "https://www.lagunaclay.com/products/wc-559-10-artificial-salt-glaze-dry",
+      "query": "add glaze work pictures",
+      "notes": "Revisited to capture additional official product images for the gallery.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-shino",
+      "visited_at": "2026-03-18T06:29:09-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Shino.html",
+      "query": "add glaze work pictures",
+      "notes": "Revisited to capture additional work-example photos from the product page gallery.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-pc-70-copper-red",
+      "visited_at": "2026-03-18T06:29:09-04:00",
+      "url": "https://shop.amaco.com/pc-70-copper-red/",
+      "query": "add glaze work pictures",
+      "notes": "Revisited to capture additional work-example images from the product page.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "minori-soda-spray-oxidation",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://www.minorithorpe.com/blog/2017/2/11/soda-spray-firing-oxidation",
+      "query": "salt glaze diy electric",
+      "notes": "Equal-parts soda ash and baking soda spray on glazed ware before cone 6 electric firing; author reports dramatic surface differences and no significant harm observed in that kiln.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-sea-salt",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://www.maycocolors.com/product/sw-118-sea-salt/",
+      "query": "commercial salt glaze electric",
+      "notes": "Official Mayco product page for SW-118 Sea Salt.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-visual-arts-shino",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+      "query": "salt glaze diy electric",
+      "notes": "Ryan Coppage article on adapting shino aesthetics to cone 6 electric oxidation, including a base recipe image and notes on soda ash-driven surface effects.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-bates-clear",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Bates-Clear-253116",
+      "query": "salt glaze diy electric",
+      "notes": "Cone 6 oxidation glaze recipe that the author dips and then sprinkles with soda ash to force running and more varied surface movement.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "laguna-wc-559-artificial-salt",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://www.lagunaclay.com/products/wc-559-10-artificial-salt-glaze-dry",
+      "query": "commercial salt glaze electric",
+      "notes": "Official Laguna product page for WC-559 Artificial Salt dry glaze.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-himalayan-salt",
+      "visited_at": "2026-03-17T22:15:02-04:00",
+      "url": "https://www.maycocolors.com/product/sw-187-himalayan-salt/",
+      "query": "commercial salt glaze electric",
+      "notes": "Official Mayco product page for SW-187 Himalayan Salt.",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-wrought-iron",
+      "visited_at": "2026-03-17T22:13:23-04:00",
+      "url": "https://www.maycocolors.com/product/sw-111-wrought-iron/",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-ketchup-red",
+      "visited_at": "2026-03-17T22:13:23-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ketchup-Red-142686",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-tomato-red-base",
+      "visited_at": "2026-03-17T22:13:23-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tomato-Red-Base-Tile-6-235212",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-tenmoku-gold",
+      "visited_at": "2026-03-17T22:13:23-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Tenmoku-Gold-246949",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-visual-arts-shino",
+      "visited_at": "2026-03-17T22:13:23-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Visual-Arts-Shino",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-oxblood",
+      "visited_at": "2026-03-17T22:13:22-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Oxblood.html",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-shino",
+      "visited_at": "2026-03-17T22:13:22-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/Shino.html",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-pc-70-copper-red",
+      "visited_at": "2026-03-17T22:13:22-04:00",
+      "url": "https://shop.amaco.com/pc-70-copper-red/",
+      "query": "",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-micro-ash",
+      "visited_at": "2026-03-17T21:59:09-04:00",
+      "url": "https://www.maycocolors.com/product/sw218-micro-ash/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-potters-choice",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://shop.amaco.com/glazes-underglazes/high-fire-glazes/pc-potters-choice/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-maycoshino",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://www.maycocolors.com/product/sw-122-maycoshino/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-micro-ash",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://www.maycocolors.com/product/sw-218-micro-ash/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "amaco-shino-line",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://shop.amaco.com/glazes-underglazes/high-fire-glazes/sh-shino/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "mayco-glaze-combinations",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://www.maycocolors.com/glaze-combinations/",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "coyote-archies-base",
+      "visited_at": "2026-03-17T21:54:00-04:00",
+      "url": "https://www.coyoteclay.com/Glazes/ArchiesBase.html",
+      "query": "wood fire looking electric glazes commercial",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-techno-electric-wood-ash",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramics-monthly/ceramics-monthly-article/Techno-File-Electric-Wood-Ash",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-frasca-ash",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Frasca-Ash-168709",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-flashing-wood-ash",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Flashing-Wood-Ash-glaze-144825",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-hannah-fake-ash",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Hannahs-Fake-Ash-168713",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-vc-matte",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/V-C-Matte-168673",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-ashleighs-rivulet",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Ashleighs-Rivulet-168582",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "yoko-cone-5-6-glazes",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://www.yokosekinobove.com/cone-5-and-6-glazes",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    },
+    {
+      "source_id": "can-colored-shigaraki",
+      "visited_at": "2026-03-17T21:53:25-04:00",
+      "url": "https://ceramicartsnetwork.org/ceramic-recipes/recipe/Elliott-Kaysers-Colored-Shigaraki-cone-6-154330",
+      "query": "wood fire looking electric glazes",
+      "notes": "",
+      "access_type": "manual"
+    }
+  ],
+  "summary": {
+    "generated_at": "2026-03-18T07:11:53-04:00",
+    "recipe_count": 11,
+    "product_count": 12,
+    "source_count": 30,
+    "action_count": 5,
+    "test_plan_count": 4,
+    "test_run_count": 0,
+    "report_count": 4,
+    "visit_count": 55,
+    "cones": {
+      "6": 11
+    }
+  }
+}

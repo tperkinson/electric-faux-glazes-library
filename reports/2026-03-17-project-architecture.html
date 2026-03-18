@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Project Architecture Bootstrap</title>
+    <link rel="stylesheet" href="../assets/styles.css">
+</head>
+<body>
+    <a class="home-link" href="../index.html">Glaze Library</a>
+    
+        <article class="content-shell">
+            <p class="eyebrow">Report</p>
+            <h1>Project Architecture Bootstrap</h1>
+            <p class="lede">Established the repository architecture for durable glaze research, source tracking, synthesis, and HTML reporting.</p>
+            <div class="meta-strip">
+                <span>2026-03-17</span>
+                <span>architecture, dashboard, storage</span>
+            </div>
+            <section class="rich-text"><h1>Overview</h1>
+<p>This project is being organized as a continuous research system rather than a pile of notes. The goal is to make it easy to add glaze recipes, images, firing details, process observations, and provenance while also making it possible for a new thread or agent to synthesize what already exists.</p>
+<h2>Key Decisions</h2>
+<ul><li>Markdown with TOML front matter is the canonical store for recipes, sources, actions, and reports.</li><li>SQLite is generated from those records so the project can query by cone, surface quality, source, and status.</li><li>Cone remains central in the schema by participating in the recipe primary key.</li><li>Every report written in markdown gets a generated HTML companion.</li><li>Every research website visit is tracked in an append-only log plus normalized source records.</li></ul>
+<h2>Operating Model</h2>
+<p>Each research pass should:</p>
+<ol><li>Log the source.</li><li>Capture recipe and image records.</li><li>Write or update a report that explains what was learned.</li><li>Rebuild the database and dashboard.</li></ol>
+<h2>Next Phase</h2>
+<p>The next practical step is to ingest a first wave of authoritative and high-signal glaze sources, then start populating cone 6 and cone 10 recipes with image-backed records.</p></section>
+        </article>
+        
+</body>
+</html>
